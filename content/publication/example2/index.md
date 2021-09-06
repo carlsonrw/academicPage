@@ -1,5 +1,5 @@
 ---
-title: "Unrealistic optimism in advice taking: A computational account"
+title: "Psychological Selfishness"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -10,9 +10,9 @@ authors:
 - Margaret Clark
 
 # Author notes (optional)
-author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+# author_notes:
+#  - "Equal contribution"
+#  - "Equal contribution"
 
 date: "2021-09-01T00:00:00Z"
 doi: ""
@@ -43,8 +43,6 @@ featured: true
 links:
 - name: Article 
   url: https://psyarxiv.com/jp27m/
-- name: PDF
-  url: 'https://psyarxiv.com/jp27m/'
 
 #url_code: '#'
 #url_dataset: '#'
