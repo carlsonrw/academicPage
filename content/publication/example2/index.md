@@ -3,7 +3,7 @@ title: "Unrealistic optimism in advice taking: A computational account"
 # authors: 
 # - Yuan Chang Leong
 # - Jamil Zaki 
- date: "2018"
+ date: "2018-02-01T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
