@@ -16,7 +16,7 @@ title: "The lateral prefrontal cortex and moral goal pursuit"
 # - ""
 # - ""
 
-date: "2018"
+date: "2018T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
