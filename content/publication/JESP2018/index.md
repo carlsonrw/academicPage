@@ -1,5 +1,5 @@
 ---
-title: "Psychological Selfishness"
+title: "Good deeds gone bad: Lay theories of altruism and selfishness"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -16,7 +16,7 @@ title: "Psychological Selfishness"
 # - ""
 # - ""
 
-date: "2021-07-01T00:00:00Z"
+date: "2018-07-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,11 +32,10 @@ publication_types: ["2"]
 # publication: "Perspectives on Psychological Science"
 publication_short: ""
 
-abstract: "Selfishness is central to many theories of human morality, yet its psychological nature remains largely overlooked. Psychologists often rely on classical conceptions of selfishness from economics (i.e., rational self-interest) and philosophy (i.e. psychological egoism), but such characterizations offer limited insight into the richer, motivated nature of selfishness. To address this gap, we propose a novel framework in which selfishness is recast as a psychological construction. From this view, selfishness is perceived in ourselves and others when we detect a situation-specific desire to benefit oneself that disregards others’ desires and prevailing social expectations for the situation. We argue that detecting and deterring such psychological selfishness in both oneself and others is crucial in social life—facilitating the maintenance of social cohesion and close relationships. In addition, we show how utilizing this psychological framework offers a richer understanding of the nature of human social behavior. Delineating a psychological construct of selfishness can promote coherence in interdisciplinary research on selfishness, and provide insights for interventions to prevent or remediate negative effects of
-selfishness."
+abstract: "When people help others, they often benefit themselves as well. Do these benefits disqualify prosocial acts from being truly altruistic? Scientists and philosophers have long debated this question, but few have considered laypeople's beliefs about altruism. Here, we examine such lay theories surrounding altruism. Across two studies, observers read about agents who behaved prosocially. In some cases, agents benefitted materially, socially, or emotionally from their actions (self-oriented consequences); in other cases, they acted in order to accrue these benefits (self-oriented motives). Observers “penalized” actions that produced self-oriented consequences – rating them as less altruistic than actions involving no such benefit – unless these benefits were emotional. When agents' actions involved self-oriented motives, observers penalized them more harshly, viewing their behavior as more selfish than even clearly non-prosocial acts. These data suggest that lay theories distinguish between motives for, and “side effects” of, prosocial actions, converging with recent psychological theories of altruism."
 
 # Summary. An optional shortened abstract.
-summary: "Authors (Year) *Journal* "
+summary: "RW Carlson & J Zaki <br>*Journal of Experimental Social Psychology* "
 
 tags:
 #- Source Themes
@@ -44,9 +43,12 @@ featured: true
 
 links:
 - name: Article 
-  url: https://psyarxiv.com/jp27m/
+  url: https://carlsonrw.github.io/_pages/layTheories.pdf
 - name: PDF
-  url: https://psyarxiv.com/jp27m/
+  url: https://carlsonrw.github.io/_pages/layTheories.pdf
+- name: Code
+  url: https://github.com/carlsonrw/layTheories_altruism
+
 
 #url_code: '#'
 #url_dataset: '#'

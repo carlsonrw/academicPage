@@ -1,5 +1,5 @@
 ---
-title: "Psychological Selfishness"
+title: "Motivated misremembering of selfish decisions"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -16,7 +16,7 @@ title: "Psychological Selfishness"
 # - ""
 # - ""
 
-date: "2021-07-01T00:00:00Z"
+date: "2020-07-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,11 +32,10 @@ publication_types: ["2"]
 # publication: "Perspectives on Psychological Science"
 publication_short: ""
 
-abstract: "Selfishness is central to many theories of human morality, yet its psychological nature remains largely overlooked. Psychologists often rely on classical conceptions of selfishness from economics (i.e., rational self-interest) and philosophy (i.e. psychological egoism), but such characterizations offer limited insight into the richer, motivated nature of selfishness. To address this gap, we propose a novel framework in which selfishness is recast as a psychological construction. From this view, selfishness is perceived in ourselves and others when we detect a situation-specific desire to benefit oneself that disregards others’ desires and prevailing social expectations for the situation. We argue that detecting and deterring such psychological selfishness in both oneself and others is crucial in social life—facilitating the maintenance of social cohesion and close relationships. In addition, we show how utilizing this psychological framework offers a richer understanding of the nature of human social behavior. Delineating a psychological construct of selfishness can promote coherence in interdisciplinary research on selfishness, and provide insights for interventions to prevent or remediate negative effects of
-selfishness."
+abstract: "People often prioritize their own interests, but also like to see themselves as moral. How do individuals resolve this tension? One way to both pursue personal gain and preserve a moral self-image is to misremember the extent of one’s selfishness. Here, we test this possibility. Across five experiments (N=3190), we find that people tend to recall being more generous in the past than they actually were, even when they are incentivized to recall their decisions accurately. Crucially, this motivated misremembering effect occurs chiefly for individuals whose choices violate their own fairness standards, irrespective of how high or low those standards are. Moreover, this effect disappears under conditions where people no longer perceive themselves as responsible for their fairness violations. Together, these findings suggest that when people’s actions fall short of their personal standards, they may misremember the extent of their selfishness, thereby potentially warding off threats to their moral self-image."
 
 # Summary. An optional shortened abstract.
-summary: "Authors (Year) *Journal* "
+summary: "RW Carlson, MA Maréchal, B Oud, E Fehr, & MJ Crockett  <br>*Nature Communications* "
 
 tags:
 #- Source Themes
@@ -44,9 +43,11 @@ featured: true
 
 links:
 - name: Article 
-  url: https://psyarxiv.com/jp27m/
+  url: https://rdcu.be/b3UvR
 - name: PDF
-  url: https://psyarxiv.com/jp27m/
+  url: https://rdcu.be/b3UvR
+- name: Code
+  url: https://osf.io/pzwt7/
 
 #url_code: '#'
 #url_dataset: '#'
