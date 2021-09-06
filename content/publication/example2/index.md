@@ -1,62 +1,55 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
-authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+title: "Unrealistic optimism in advice taking: A computational account"
+authors: 
+- Yuan Chang Leong
+- Jamil Zaki 
+date: "2018-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: "Journal of Experimental Psychology: General"
+publication_short: ""
 
-abstract: Test
+abstract: Expert advisors often make surprisingly inaccurate predictions about the future, yet people heed their suggestions nonetheless. Here we provide a novel, computational account of this unrealistic optimism in advice taking. Across 3 studies, participants observed as advisors predicted the performance of a stock. Advisors varied in their accuracy, performing reliably above, at, or below chance. Despite repeated feedback, participants exhibited inflated perceptions of advisors' accuracy, and reliably "bet" on advisors' predictions more than their performance warranted. Participants' decisions tightly tracked a computational model that makes 2 assumptions - (a) people hold optimistic initial expectations about advisors, and (b) people preferentially incorporate information that adheres to their expectations when learning about advisors. Consistent with model predictions, explicitly manipulating participants' initial expectations altered their optimism bias and subsequent advice-taking. With well-calibrated initial expectations, participants no longer exhibited an optimism bias. We then explored crowdsourced ratings as a strategy to curb unrealistic optimism in advisors. Star ratings for each advisor were collected from an initial group of participants, which were then shown to a second group of participants. Instead of calibrating expectations, these ratings propagated and exaggerated the unrealistic optimism. Our results provide a computational account of the cognitive processes underlying inflated perceptions of expertise, and explore the boundary conditions under which they occur. We discuss the adaptive value of this optimism bias, and how our account can be extended to explain unrealistic optimism in other domains.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "*Journal of Experimental Psychology: General* (2018)"
 
-tags: []
+tags:
+#- Source Themes
+featured: false
 
-# Display this page in the Featured widget?
-featured: true
+links:
+- name: Article 
+  url: https://psycnet.apa.org/record/2017-52070-001
+- name: PDF
+  url: 'files/papers/LeongJPEG2017.pdf'
+- name: SI
+  url: 'files/papers/LeongJPEG2017_Supplement.pdf'
+- name: Code/Data
+  url: https://github.com/ycleong/AdviceTaking
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -66,22 +59,13 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
