@@ -1,9 +1,13 @@
 ---
-title: "Belief in altruistic motives predicts prosocial actions and inferences"
+title: "Psychological Selfishness"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 # authors:
+# - Ryan W. Carlson
+# - Chance Adkins
+# - Molly J. Crockett
+# - Margaret S. Clark
 
 # Author notes (optional)
 # author_notes:
@@ -28,10 +32,11 @@ publication_types: ["2"]
 # publication: "Perspectives on Psychological Science"
 publication_short: ""
 
-abstract: "Are humans ever truly altruistic? Or are all actions, however noble, ultimately motivated by self-interest? Psychologists and philosophers have long grappled with this question, but few have considered laypeople’s beliefs about the nature of prosocial motives. Here we examine these beliefs and their social correlates across two experiments (N=445). We find that people tend to believe humans can be, and frequently are, altruistically motivated—echoing prior work. Moreover, people who more strongly believe in altruistic motives act more prosocially themselves—for instance, sacrificing greater amounts of money and time to help others—a relationship that holds even when controlling for trait empathy. People who believe in altruistic motives also judge other prosocial agents to be more genuinely kind, especially when agents’ motives are ambiguous. Lastly, people independently show a self-serving bias—believing their own motives for prosociality are more often altruistic than others’. Overall, this work suggests that believing in altruistic motives predicts the extent to which people both see altruism and act prosocially, possibly reflecting the self-fulfilling nature of such lay theories."
+abstract: "Selfishness is central to many theories of human morality, yet its psychological nature remains largely overlooked. Psychologists often rely on classical conceptions of selfishness from economics (i.e., rational self-interest) and philosophy (i.e. psychological egoism), but such characterizations offer limited insight into the richer, motivated nature of selfishness. To address this gap, we propose a novel framework in which selfishness is recast as a psychological construction. From this view, selfishness is perceived in ourselves and others when we detect a situation-specific desire to benefit oneself that disregards others’ desires and prevailing social expectations for the situation. We argue that detecting and deterring such psychological selfishness in both oneself and others is crucial in social life—facilitating the maintenance of social cohesion and close relationships. In addition, we show how utilizing this psychological framework offers a richer understanding of the nature of human social behavior. Delineating a psychological construct of selfishness can promote coherence in interdisciplinary research on selfishness, and provide insights for interventions to prevent or remediate negative effects of
+selfishness."
 
 # Summary. An optional shortened abstract.
-summary: "RW Carlson & J Zaki.<br> *Social Cognitive and Affective Neuroscience* "
+summary: "RW Carlson, C Adkins, MJ Crockett, & MS Clark <br>*Perspectives on Psychological Science* "
 
 tags:
 #- Source Themes
@@ -39,11 +44,10 @@ featured: true
 
 links:
 - name: Article 
-  url: https://journals.sagepub.com/doi/abs/10.1177/00332941211013529?journalCode=prxa
+  url: https://psyarxiv.com/jp27m/
 - name: PDF
-  url: https://psyarxiv.com/sa6q8/
-- name: Code 
-  url: https://osf.io/ajrfq/
+  url: https://psyarxiv.com/jp27m/
+
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -74,3 +78,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: "Psychological Selfishness"
+title: "Neural detection of socially valued community members"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -16,7 +16,7 @@ title: "Psychological Selfishness"
 # - ""
 # - ""
 
-date: "2021-07-01T00:00:00Z"
+date: "2018-07-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,11 +32,10 @@ publication_types: ["2"]
 # publication: "Perspectives on Psychological Science"
 publication_short: ""
 
-abstract: "Selfishness is central to many theories of human morality, yet its psychological nature remains largely overlooked. Psychologists often rely on classical conceptions of selfishness from economics (i.e., rational self-interest) and philosophy (i.e. psychological egoism), but such characterizations offer limited insight into the richer, motivated nature of selfishness. To address this gap, we propose a novel framework in which selfishness is recast as a psychological construction. From this view, selfishness is perceived in ourselves and others when we detect a situation-specific desire to benefit oneself that disregards others’ desires and prevailing social expectations for the situation. We argue that detecting and deterring such psychological selfishness in both oneself and others is crucial in social life—facilitating the maintenance of social cohesion and close relationships. In addition, we show how utilizing this psychological framework offers a richer understanding of the nature of human social behavior. Delineating a psychological construct of selfishness can promote coherence in interdisciplinary research on selfishness, and provide insights for interventions to prevent or remediate negative effects of
-selfishness."
+abstract: "As people form social groups, they benefit from being able to detect socially valuable community members—individuals who act prosocially, support others, and form strong relationships. Multidisciplinary evidence demonstrates that people indeed track others’ social value, but the mechanisms through which such detection occurs remain unclear. Here, we combine social network and neuroimaging analyses to examine this process. We mapped social networks in two freshman dormitories (n = 97), identifying how often individuals were nominated as socially valuable (i.e., sources of friendship, empathy, and support) by their peers. Next, we scanned a subset of dorm members (“perceivers”; n = 50) as they passively viewed photos of their dormmates (“targets”). Perceiver brain activity in regions associated with mentalizing and value computation differentiated between highly valued targets and other community members but did not differentiate between targets with middle versus low levels of social value. Cross-validation analysis revealed that brain activity from novel perceivers could be used to accurately predict whether targets viewed by those perceivers were high in social value or not. These results held even after controlling for perceivers’ own ratings of closeness to targets, and even though perceivers were not directed to focus on targets’ social value. Overall, these findings demonstrate that individuals spontaneously monitor people identified as sources of strong connection in the broader community."
 
 # Summary. An optional shortened abstract.
-summary: "Authors (Year) *Journal* "
+summary: "S Morelli, YC Leong, RW Carlson, M Kullar, & J Zaki <br> *Proceedings of the National Academy of Sciences* "
 
 tags:
 #- Source Themes
@@ -44,9 +43,11 @@ featured: true
 
 links:
 - name: Article 
-  url: https://psyarxiv.com/jp27m/
+  url: https://www.pnas.org/content/115/32/8149.short
 - name: PDF
-  url: https://psyarxiv.com/jp27m/
+  url: https://carlsonrw.github.io/_pages/detectionSocial.pdf
+- name: Code
+  url: https://github.com/esclabUIC/NetworkFMRI
 
 #url_code: '#'
 #url_dataset: '#'
