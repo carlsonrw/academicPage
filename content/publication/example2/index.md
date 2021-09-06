@@ -26,7 +26,7 @@ summary: "*Journal of Experimental Psychology: General* (2018)"
 
 tags:
 #- Source Themes
-featured: false
+featured: true
 
 links:
 - name: Article 
