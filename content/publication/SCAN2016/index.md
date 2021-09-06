@@ -4,10 +4,6 @@ title: "When is giving an impulse? An ERP study of intuitive prosocial behavior"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 # authors:
-# - Ryan W. Carlson
-# - Chance Adkins
-# - Molly J. Crockett
-# - Margaret S. Clark
 
 # Author notes (optional)
 # author_notes:
@@ -39,7 +35,7 @@ summary: "RW Carlson, LB Aknin, & M Liotti.<br> *Social Cognitive and Affective 
 
 tags:
 #- Source Themes
-featured: false
+featured: true
 
 links:
 - name: Article 
