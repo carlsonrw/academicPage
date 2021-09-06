@@ -27,7 +27,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "Journal of Experimental Psychology: General"
+publication: "Perspectives on Psychological Science"
 publication_short: ""
 
 abstract: Selfishness is central to many theories of human morality, yet its psychological nature remains largely overlooked. Psychologists often rely on classical conceptions of selfishness from economics (i.e., rational self-interest) and philosophy (i.e. psychological egoism), but such characterizations offer limited insight into the richer, motivated nature of selfishness. To address this gap, we propose a novel framework in which selfishness is recast as a psychological construction. From this view, selfishness is perceived in ourselves and others when we detect a situation-specific desire to benefit oneself that disregards others’ desires and prevailing social expectations for the situation. We argue that detecting and deterring such psychological selfishness in both oneself and others is crucial in social life—facilitating the maintenance of social cohesion and close relationships. In addition, we show how utilizing this psychological framework offers a richer understanding of the nature of human social behavior. Delineating a psychological construct of selfishness can promote coherence in interdisciplinary research on selfishness, and provide insights for interventions to prevent or remediate negative effects of
