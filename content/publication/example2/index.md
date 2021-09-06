@@ -1,20 +1,17 @@
 ---
-title: "Psychological Selfishness"
+title: "Unrealistic optimism in advice taking: A computational account"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Ryan Carlson
-- Chance Adkins
-- Molly Crockett
-- Margaret Clark
 
 # Author notes (optional)
-# author_notes:
-#  - "Equal contribution"
-#  - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2021-09-01T00:00:00Z"
+date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,11 +24,10 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Perspectives on Psychological Science"
+publication: "Journal of Experimental Psychology: General"
 publication_short: ""
 
-abstract: Selfishness is central to many theories of human morality, yet its psychological nature remains largely overlooked. Psychologists often rely on classical conceptions of selfishness from economics (i.e., rational self-interest) and philosophy (i.e. psychological egoism), but such characterizations offer limited insight into the richer, motivated nature of selfishness. To address this gap, we propose a novel framework in which selfishness is recast as a psychological construction. From this view, selfishness is perceived in ourselves and others when we detect a situation-specific desire to benefit oneself that disregards others’ desires and prevailing social expectations for the situation. We argue that detecting and deterring such psychological selfishness in both oneself and others is crucial in social life—facilitating the maintenance of social cohesion and close relationships. In addition, we show how utilizing this psychological framework offers a richer understanding of the nature of human social behavior. Delineating a psychological construct of selfishness can promote coherence in interdisciplinary research on selfishness, and provide insights for interventions to prevent or remediate negative effects of
-selfishness. 
+abstract: Expert advisors often make surprisingly inaccurate predictions about the future, yet people heed their suggestions nonetheless. Here we provide a novel, computational account of this unrealistic optimism in advice taking. Across 3 studies, participants observed as advisors predicted the performance of a stock. Advisors varied in their accuracy, performing reliably above, at, or below chance. Despite repeated feedback, participants exhibited inflated perceptions of advisors' accuracy, and reliably "bet" on advisors' predictions more than their performance warranted. Participants' decisions tightly tracked a computational model that makes 2 assumptions - (a) people hold optimistic initial expectations about advisors, and (b) people preferentially incorporate information that adheres to their expectations when learning about advisors. Consistent with model predictions, explicitly manipulating participants' initial expectations altered their optimism bias and subsequent advice-taking. With well-calibrated initial expectations, participants no longer exhibited an optimism bias. We then explored crowdsourced ratings as a strategy to curb unrealistic optimism in advisors. Star ratings for each advisor were collected from an initial group of participants, which were then shown to a second group of participants. Instead of calibrating expectations, these ratings propagated and exaggerated the unrealistic optimism. Our results provide a computational account of the cognitive processes underlying inflated perceptions of expertise, and explore the boundary conditions under which they occur. We discuss the adaptive value of this optimism bias, and how our account can be extended to explain unrealistic optimism in other domains.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -42,7 +38,13 @@ featured: true
 
 links:
 - name: Article 
-  url: https://psyarxiv.com/jp27m/
+  url: https://psycnet.apa.org/record/2017-52070-001
+- name: PDF
+  url: 'files/papers/LeongJPEG2017.pdf'
+- name: SI
+  url: 'files/papers/LeongJPEG2017_Supplement.pdf'
+- name: Code/Data
+  url: https://github.com/ycleong/AdviceTaking
 
 #url_code: '#'
 #url_dataset: '#'
