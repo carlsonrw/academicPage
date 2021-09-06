@@ -16,7 +16,7 @@ title: "Good deeds gone bad: Lay theories of altruism and selfishness"
 # - ""
 # - ""
 
-date: "2018-07-01T00:00:00Z"
+date: "2018-03-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -16,7 +16,7 @@ title: "The lateral prefrontal cortex and moral goal pursuit"
 # - ""
 # - ""
 
-date: "2018T00:00:00Z"
+date: "2018-12-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ publication_short: ""
 abstract: "In the face of competing desires, humans often strive to be fair, honest, and considerate of others. Research from social neuroscience implicates the lateral prefrontal cortex (LPFC) in our capacity to pursue such goals, yet its precise computational role is less clear. Here, we draw on insights from the neuroscience of hierarchical control and value-based choice to offer an integrative look at how LPFC supports the pursuit of moral goals. We conclude by highlighting how future work may leverage these insights to deepen our understanding of the dynamic neural code of morality."
 
 # Summary. An optional shortened abstract.
-summary: "RW Carlson & MJ Crockett (Year) <br>*Current Opinion in Psychology* "
+summary: "RW Carlson & MJ Crockett <br>*Current Opinion in Psychology* "
 
 tags:
 #- Source Themes
