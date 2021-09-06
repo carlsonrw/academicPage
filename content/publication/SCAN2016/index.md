@@ -35,7 +35,7 @@ publication_short: ""
 abstract: "Human prosociality is often assumed to emerge from exerting reflective control over initial, selfish impulses. However, recent findings suggest that prosocial actions can also stem from processes that are fast, automatic and intuitive. Here, we attempt to clarify when prosocial behavior may be intuitive by examining prosociality as a form of reward seeking. Using event-related potentials (ERPs), we explored whether a neural signature that rapidly encodes the motivational salience of an event—the P300—can predict intuitive prosocial motivation. Participants allocated varying amounts of money between themselves and charities they initially labelled as high- or low-empathy targets under conditions that promoted intuitive or reflective decision making. Consistent with our predictions, P300 amplitude over centroparietal regions was greater when giving involved high-empathy targets than low-empathy targets, but only when deciding under intuitive conditions. Reflective conditions, alternatively, elicited an earlier frontocentral positivity related to response inhibition, regardless of target. Our findings suggest that during prosocial decision making, larger P300 amplitude could (i) signal intuitive prosocial motivation and (ii) predict subsequent engagement in prosocial behavior. This work offers novel insight into when prosociality may be driven by intuitive processes and the roots of such behaviors."
 
 # Summary. An optional shortened abstract.
-summary: "RW Carlson, LB Aknin, & M Liotti. *Social Cognitive and Affective Neuroscience* "
+summary: "RW Carlson, LB Aknin, & M Liotti.<br> *Social Cognitive and Affective Neuroscience* "
 
 tags:
 #- Source Themes
