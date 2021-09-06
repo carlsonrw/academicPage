@@ -39,7 +39,7 @@ summary: "RW Carlson, LB Aknin, & M Liotti.<br> *Social Cognitive and Affective 
 
 tags:
 #- Source Themes
-featured: true
+featured: false
 
 links:
 - name: Article 
