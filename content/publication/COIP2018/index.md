@@ -1,5 +1,5 @@
 ---
-title: "Psychological Selfishness"
+title: "The lateral prefrontal cortex and moral goal pursuit"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -16,7 +16,7 @@ title: "Psychological Selfishness"
 # - ""
 # - ""
 
-date: "2021-07-01T00:00:00Z"
+date: "2018-07-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,11 +32,10 @@ publication_types: ["2"]
 # publication: "Perspectives on Psychological Science"
 publication_short: ""
 
-abstract: "Selfishness is central to many theories of human morality, yet its psychological nature remains largely overlooked. Psychologists often rely on classical conceptions of selfishness from economics (i.e., rational self-interest) and philosophy (i.e. psychological egoism), but such characterizations offer limited insight into the richer, motivated nature of selfishness. To address this gap, we propose a novel framework in which selfishness is recast as a psychological construction. From this view, selfishness is perceived in ourselves and others when we detect a situation-specific desire to benefit oneself that disregards others’ desires and prevailing social expectations for the situation. We argue that detecting and deterring such psychological selfishness in both oneself and others is crucial in social life—facilitating the maintenance of social cohesion and close relationships. In addition, we show how utilizing this psychological framework offers a richer understanding of the nature of human social behavior. Delineating a psychological construct of selfishness can promote coherence in interdisciplinary research on selfishness, and provide insights for interventions to prevent or remediate negative effects of
-selfishness."
+abstract: "In the face of competing desires, humans often strive to be fair, honest, and considerate of others. Research from social neuroscience implicates the lateral prefrontal cortex (LPFC) in our capacity to pursue such goals, yet its precise computational role is less clear. Here, we draw on insights from the neuroscience of hierarchical control and value-based choice to offer an integrative look at how LPFC supports the pursuit of moral goals. We conclude by highlighting how future work may leverage these insights to deepen our understanding of the dynamic neural code of morality."
 
 # Summary. An optional shortened abstract.
-summary: "Authors (Year) *Journal* "
+summary: "RW Carlson & MJ Crockett (Year) <br>*Current Opinion in Psychology* "
 
 tags:
 #- Source Themes
@@ -44,9 +43,9 @@ featured: true
 
 links:
 - name: Article 
-  url: https://psyarxiv.com/jp27m/
+  url: https://carlsonrw.github.io/_pages/goalPursuitLPFC.pdf
 - name: PDF
-  url: https://psyarxiv.com/jp27m/
+  url: https://carlsonrw.github.io/_pages/goalPursuitLPFC.pdf
 
 #url_code: '#'
 #url_dataset: '#'
