@@ -19,6 +19,7 @@ bio: My research interests include self and social cognition, motives, and moral
 # Interests to show in About widget
 interests:
 - Social Psychology
+- Motivated Cognition
 - Computational Modelling
 
 # Education to show in About widget
@@ -30,7 +31,7 @@ education:
   - course: MSc in Psychology
     institution: Yale University
     year: 2019
-  - course: BA in Psychology
+  - course: BA (Hons.) in Psychology
     institution: Simon Fraser University
     year: 2014
 
@@ -55,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/carlson_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,6 +67,4 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I'm a PhD candidate in psychology at Yale University working with [Molly Crockett](http://www.crockettlab.org/). Before Yale, I worked as a post-bac RA for two years with [Jamil Zaki](http://ssnl.stanford.edu/) at Stanford University. I completed my BA in Canada at Simon Fraser University, just outside of Vancouver, BC.
-
-I study social cognition (e.g., how we infer other peoples' motives), motivated cognition (e.g., how moral concerns bias our inferences and memories), and prosocial motivation (why we help others). My work draws on theory and methods from social psychology, cognitive science, and neuroscience. To learn more about my work, check out my publications below.
+Hello! I'm a PhD candidate in Social Psychology at Yale University advised by [Molly Crockett](http://www.crockettlab.org/). My current research addresses the following question: How do we determine who to trust, befriend, and support in social life? One crucial ingredient is inferring that others have our best interests at heart--that they view our friendship as an end in itself, rather than instrumental to other goals. I study the process by which we come to know our own and other people's motives in social life. This includes both the cognitive and motivational mechanisms that may hone or bias these inferences, as well as how these inferences shape our minds and behavior. To learn more about my work, check out my publications below.
