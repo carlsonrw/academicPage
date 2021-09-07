@@ -11,7 +11,7 @@ main:
     url: '#featured'
     weight: 50
   - name: CV
-    url: 'https://carlsonrw.github.io/_pages/Carlson_CV.pdf'
+    url: 'https://carlsonr.com/uploads/carlson_cv.pdf'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
