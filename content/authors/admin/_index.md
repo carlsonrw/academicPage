@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryan W. Carlson
+title: Ryan Carlson
 
 # Is this the primary user of the site?
 superuser: true
