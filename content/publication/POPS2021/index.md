@@ -16,7 +16,7 @@ title: "Psychological selfishness"
 # - ""
 # - ""
 
-date: "2021-09-01T00:00:00Z"
+date: "2022-04-20T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -44,9 +44,9 @@ featured: true
 
 links:
 - name: Article 
-  url: https://psyarxiv.com/jp27m/
+  url: https://doi.org/10.1177/17456916211045692
 - name: PDF
-  url: https://psyarxiv.com/jp27m/
+  url: https://carlsonrw.github.io/_pages/selfishTheory.pdf
 
 #url_code: '#'
 #url_dataset: '#'
