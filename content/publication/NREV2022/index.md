@@ -45,7 +45,7 @@ links:
 - name: Article 
   url: https://www.nature.com/articles/s44159-022-00071-x
 - name: PDF
-  url: https://rdcu.be/cPd91
+  url: https://carlsonrw.github.io/_pages/inferredMotives.pdf
 
 #url_code: '#'
 #url_dataset: '#'
