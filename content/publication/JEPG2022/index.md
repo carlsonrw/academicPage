@@ -40,7 +40,7 @@ featured: true
 
 links:
 - name: Article 
-  url: https://pubmed.ncbi.nlm.nih.gov/33211508/
+  url: https://psycnet.apa.org/record/2022-72662-001?doi=1
 - name: PDF
   url: https://carlsonrw.github.io/_pages/middleSchoolIntervention.pdf
 - name: Code
