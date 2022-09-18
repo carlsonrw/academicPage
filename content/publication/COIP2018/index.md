@@ -42,7 +42,7 @@ tags:
 featured: true
 
 links:
-- name: Article 
+- name: Web 
   url: https://www.sciencedirect.com/science/article/pii/S2352250X18300034
 - name: PDF
   url: https://drive.google.com/file/d/1YPLVunN5Sj61gm8fD1n-40yMNMOQffvR/view?usp=sharing
