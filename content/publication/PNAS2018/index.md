@@ -42,10 +42,10 @@ tags:
 featured: true
 
 links:
-- name: Article 
+- name: Web 
   url: https://www.pnas.org/content/115/32/8149.short
 - name: PDF
-  url: https://carlsonrw.github.io/_pages/detectionSocial.pdf
+  url: https://drive.google.com/file/d/1ghsm75hUllsnAG-yYQe8UWCWvEjIHYX0/view?usp=sharing
 - name: Code
   url: https://github.com/esclabUIC/NetworkFMRI
 
