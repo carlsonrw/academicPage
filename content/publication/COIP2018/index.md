@@ -43,9 +43,9 @@ featured: true
 
 links:
 - name: Article 
-  url: https://carlsonrw.github.io/_pages/goalPursuitLPFC.pdf
+  url: https://www.sciencedirect.com/science/article/pii/S2352250X18300034
 - name: PDF
-  url: https://carlsonrw.github.io/_pages/goalPursuitLPFC.pdf
+  url: https://drive.google.com/file/d/1YPLVunN5Sj61gm8fD1n-40yMNMOQffvR/view?usp=sharing
 
 #url_code: '#'
 #url_dataset: '#'
