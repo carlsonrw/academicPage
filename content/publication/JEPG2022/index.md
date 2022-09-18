@@ -26,7 +26,7 @@ date: "2022-06-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Perspectives on Psychological Science"
+# publication: "Journal of Experimental Psychology: General"
 publication_short: ""
 
 abstract: "Empathy tracks socioemotional adjustment during early adolescence, yet adolescents this age tend to show reductions in empathy compared with younger children. Here we took a novel approach to building empathy among early adolescents in four middle schools (n = 857). Rather than addressing the ability to empathize, we targeted the motivation to empathize. To do so, we leveraged strategies demonstrated to change motivation among early adolescents: social norms and mindsets. Compared with those in other conditions, students who received a norms-based intervention reported greater motivation to empathize with others, which was in turn associated with increased peer-reported prosocial behaviors, as well as lower levels of loneliness and aggression. The effects of this norms condition were strongest at schools with relatively high engagement with the intervention. Findings suggest a novel avenue for increasing empathy among early adolescents-focusing on peer-driven motivation-and underscore the importance of context in shaping intervention outcomes."
