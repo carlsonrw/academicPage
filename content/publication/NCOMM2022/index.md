@@ -40,7 +40,7 @@ tags:
 featured: true
 
 links:
-- name: Article 
+- name: Web 
   url: https://www.nature.com/articles/s41467-022-29742-2
 - name: PDF
   url: https://www.nature.com/articles/s41467-022-29742-2.pdf
