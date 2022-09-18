@@ -42,7 +42,7 @@ tags:
 featured: true
 
 links:
-- name: Article 
+- name: Web 
   url: https://rdcu.be/b3UvR
 - name: PDF
   url: https://rdcu.be/b3UvR
