@@ -42,10 +42,10 @@ tags:
 featured: true
 
 links:
-- name: Article 
-  url: https://carlsonrw.github.io/_pages/layTheories.pdf
+- name: Web 
+  url: https://www.sciencedirect.com/science/article/pii/S0022103117301701
 - name: PDF
-  url: https://carlsonrw.github.io/_pages/layTheories.pdf
+  url: https://drive.google.com/file/d/1JAfsbLklgcnYrujXaWUsZiKVIjGtD50p/view?usp=sharing
 - name: Code
   url: https://github.com/carlsonrw/layTheories_altruism
 
