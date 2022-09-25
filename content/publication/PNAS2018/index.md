@@ -46,7 +46,7 @@ links:
   url: https://www.pnas.org/content/115/32/8149.short
 - name: PDF
   url: https://drive.google.com/file/d/1ghsm75hUllsnAG-yYQe8UWCWvEjIHYX0/view?usp=sharing
-- name: Code
+- name: GitHub
   url: https://github.com/esclabUIC/NetworkFMRI
 
 #url_code: '#'
