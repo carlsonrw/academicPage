@@ -46,7 +46,7 @@ links:
   url: https://pubmed.ncbi.nlm.nih.gov/33211508/
 - name: PDF
   url: https://drive.google.com/file/d/1nAnP32RPMFfkcLUTseBDHbFo-c6h__P5/view?usp=sharing
-- name: Code
+- name: OSF
   url: https://osf.io/f4czb/
 
 
