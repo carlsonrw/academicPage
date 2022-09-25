@@ -46,7 +46,7 @@ links:
   url: https://rdcu.be/b3UvR
 - name: PDF
   url: https://rdcu.be/b3UvR
-- name: Code
+- name: OSF
   url: https://osf.io/pzwt7/
 
 #url_code: '#'
