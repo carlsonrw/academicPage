@@ -27,13 +27,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MPhil in Psychology
+  - course: M.Phil. in Psychology
     institution: Yale University
     year: 2020
-  - course: MSc in Psychology
+  - course: M.S. in Psychology
     institution: Yale University
     year: 2019
-  - course: BA (Hons.) in Psychology
+  - course: B.A. (Hons.) in Psychology
     institution: Simon Fraser University
     year: 2014
 
