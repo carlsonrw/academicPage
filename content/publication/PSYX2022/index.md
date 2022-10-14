@@ -15,7 +15,7 @@ title: "Detecting social partners from indirect prosociality: A computational ac
 # - ""
 # - ""
 
-date: "2022-08-22T00:00:00Z"
+date: "2022-10-14T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
