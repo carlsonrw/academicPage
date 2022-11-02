@@ -51,15 +51,13 @@ agent’s knowledge from their made personal choices (Experiment 2). These findi
 detection, and social cognition more broadly."
 
 # Summary. An optional shortened abstract.
-summary: "I Davis, RW Carlson, Y Dunham, & J Jara-Ettinger <br>*under review* "
+summary: "I Davis, RW Carlson, Y Dunham, & J Jara-Ettinger <br>*working paper* "
 
 tags:
 #- Source Themes
 featured: true
 
 links:
-- name: Web 
-  url: https://drive.google.com/file/d/1gNBQLQQMICgNfeaZrsfNloeuLxsibJvX/view?usp=sharing
 - name: PDF
   url: https://drive.google.com/file/d/1gNBQLQQMICgNfeaZrsfNloeuLxsibJvX/view?usp=sharing
 
