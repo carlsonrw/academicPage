@@ -6,7 +6,7 @@
 # Appearance
 
 theme: rose
-theme_color: #FF7276
+theme-color: #FF7276
 day_night: false
 font: rose
 font_size: M
