@@ -11,8 +11,9 @@ role: Principal Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Chicago
+  url: https://research.chicagobooth.edu/cdr/about-the-center
 - name: Booth School of Business
-  url: https://www.chicagobooth.edu/
+  url: https://research.chicagobooth.edu/cdr/about-the-center
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include self and social cognition, motives, and morality.
