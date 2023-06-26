@@ -10,7 +10,8 @@ role: Principal Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Chicago<br />Booth School of Business
+- name: University of Chicago
+- name: Booth School of Business
   url: https://www.chicagobooth.edu/
 
 # Short bio (displayed in user profile at end of posts)
