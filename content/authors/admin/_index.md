@@ -10,7 +10,7 @@ role: Principal Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Chicago
+- name: University of Chicago Booth School of Business
   url: https://research.chicagobooth.edu/cdr/about-the-center
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,12 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.Phil. in Psychology
+  - course: Ph.D. in Psychology
     institution: Yale University
-    year: 2020
-  - course: M.S. in Psychology
-    institution: Yale University
-    year: 2019
+    year: 2023
   - course: B.A. (Hons.) in Psychology
     institution: Simon Fraser University
     year: 2014
