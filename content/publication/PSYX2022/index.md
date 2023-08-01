@@ -15,7 +15,7 @@ title: "Identifying social partners through indirect prosociality: A computation
 # - ""
 # - ""
 
-date: "2022-10-14T00:00:00Z"
+date: "2023-01-14T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -51,7 +51,7 @@ agent’s knowledge from their made personal choices (Experiment 2). These findi
 detection, and social cognition more broadly."
 
 # Summary. An optional shortened abstract.
-summary: "I Davis, RW Carlson, Y Dunham, & J Jara-Ettinger <br>*under review* "
+summary: "I Davis, RW Carlson, Y Dunham, & J Jara-Ettinger <br>*Cognition (In Press)* "
 
 tags:
 #- Source Themes
