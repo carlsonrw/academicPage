@@ -59,9 +59,9 @@ featured: true
 
 links:
 - name: Web
-  url: https://psyarxiv.com/au5gc/
+  url: https://t.co/mRo652xATh
 - name: PDF
-  url: https://drive.google.com/file/d/1gNBQLQQMICgNfeaZrsfNloeuLxsibJvX/view?usp=sharing
+  url: https://drive.google.com/file/d/1ChfKccBFJM2n9X_v-M5aV3gClMBe9KA4/view?usp=drive_link
 
 
 #url_code: '#'
