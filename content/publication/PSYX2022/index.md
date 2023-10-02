@@ -28,7 +28,7 @@ date: "2023-08-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "under review"
+# publication: "in press"
 publication_short: ""
 
 abstract: "In social life, it is useful to identify social partners who are prosocial,
@@ -59,7 +59,7 @@ featured: true
 
 links:
 - name: Web
-  url: https://t.co/mRo652xATh
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0010027723002147
 - name: PDF
   url: https://drive.google.com/file/d/1ChfKccBFJM2n9X_v-M5aV3gClMBe9KA4/view?usp=drive_link
 
