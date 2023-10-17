@@ -43,7 +43,7 @@ featured: true
 
 links:
 - name: Web 
-  url: https://rdcu.be/b3UvR
+  url: https://www.nature.com/articles/s41467-020-15602-4
 - name: PDF
   url: https://rdcu.be/b3UvR
 - name: OSF
