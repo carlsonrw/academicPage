@@ -33,9 +33,6 @@ education:
   - course: M.Phil. in Psychology
     institution: Yale University
     year: 2020
-  - course: M.S. in Psychology
-    institution: Yale University
-    year: 2019
   - course: B.A. (Hons.) in Psychology
     institution: Simon Fraser University
     year: 2014
