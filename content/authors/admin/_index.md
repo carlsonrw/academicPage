@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ryan.carlson@yale.edu'
+  link: 'mailto:ryan.carlson@chicagobooth.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/carlsonr_
