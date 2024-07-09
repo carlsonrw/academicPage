@@ -45,6 +45,8 @@ links:
   url: https://psyarxiv.com/xkz6m
 - name: PDF
   url: https://psyarxiv.com/xkz6m
+- name: OSF
+  url: https://osf.io/y7ksj/
 
 
 #url_code: '#'
