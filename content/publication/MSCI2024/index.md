@@ -26,7 +26,7 @@ date: "2024-05-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "under review"
+# publication: "Motivation Science"
 publication_short: ""
 
 abstract: "Growing evidence reveals that failures—whether in the classroom, at work, or in people’s personal and social lives—are difficult to learn from. Traditionally, researchers have focused on the self-threatening nature of failure as the culprit for why people struggle to learn from their past blunders. Here, we show that beyond the emotional barriers to learning from past failures (e.g., failure is unpleasant), there are also cognitive barriers (e.g., failure seems uninformative). These barriers arise when people fail to achieve their current goals (during goal striving) and when they decide whether to pursue new goals at all (during goal setting). We discuss interventions that promote learning from failure to overcome these distinct psychological barriers at each stage of goal pursuit."
