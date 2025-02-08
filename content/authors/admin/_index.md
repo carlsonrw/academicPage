@@ -10,7 +10,7 @@ role: Principal Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Chicago Booth
+- name: University of Chicago
   url: https://research.chicagobooth.edu/cdr/about-the-center
 
 # Short bio (displayed in user profile at end of posts)
