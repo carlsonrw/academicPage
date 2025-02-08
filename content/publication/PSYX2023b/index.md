@@ -42,9 +42,9 @@ featured: true
 
 links:
 - name: Web
-  url: https://osf.io/preprints/psyarxiv/2zrfa/
+  url: https://osf.io/preprints/psyarxiv/2zrfa_v1
 - name: PDF
-  url: https://osf.io/preprints/psyarxiv/2zrfa/
+  url: https://osf.io/preprints/psyarxiv/2zrfa_v1
 
 
 #url_code: '#'
