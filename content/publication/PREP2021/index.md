@@ -41,7 +41,7 @@ links:
 - name: Web 
   url: https://journals.sagepub.com/doi/abs/10.1177/00332941211013529?journalCode=prxa
 - name: PDF
-  url: [https://psyarxiv.com/sa6q8/](https://osf.io/preprints/psyarxiv/sa6q8_v1)
+  url: https://osf.io/preprints/psyarxiv/sa6q8_v1
 - name: OSF 
   url: https://osf.io/ajrfq/
 #url_code: '#'
