@@ -28,7 +28,7 @@ date: "2023-10-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Nature Communications (accepted)"
+# publication: "Nature Communications"
 publication_short: ""
 
 abstract: "A common view in behavioral science is that people lack introspective access to the mental processes underlying their decisions. In contrast, we show that people can report key aspects of their choice process with high accuracy. Across five studies (total N = 1,144), participants made value-based choices between options that varied on many attributes, and reported how they believed they made those choices. We used computational modeling to identify the actual mental process revealed in their choices, and compared this process to their self-reports to quantify individuals’ accuracy about their choice process. Participants were far more accurate than chance about core aspects of their process – including the weights they placed on attributes and the heuristics they used to simplify their process – and outperformed informed third-party observers. These results challenge longstanding notions that we are “strangers to ourselves” and instead suggest that people often know how they are making value-based choices."
