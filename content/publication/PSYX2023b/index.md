@@ -31,7 +31,7 @@ publication_types: ["2"]
 # publication: "Nature Communications"
 publication_short: ""
 
-abstract: "A common view in behavioral science is that people lack introspective access to the mental processes underlying their decisions. In contrast, we show that people can report key aspects of their choice process with high accuracy. Across five studies (total N = 1,144), participants made value-based choices between options that varied on many attributes, and reported how they believed they made those choices. We used computational modeling to identify the actual mental process revealed in their choices, and compared this process to their self-reports to quantify individuals’ accuracy about their choice process. Participants were far more accurate than chance about core aspects of their process – including the weights they placed on attributes and the heuristics they used to simplify their process – and outperformed informed third-party observers. These results challenge longstanding notions that we are “strangers to ourselves” and instead suggest that people often know how they are making value-based choices."
+abstract: "People routinely choose between options varying on multiple attributes –homes to rent, movies to watch, and so on. Here, we test how much awarenesspeople have of the mental processes underlying these choices. We develop amethod to quantify awareness of value-based multi-attribute choice processesthat accounts for diverse choice strategies. Across five studies, participantsmake choices and then report how they believe they made them. We usecomputational modeling to identify the process revealed in their choices, andcompare it to their self-reports to quantify individuals’ accuracy about theirchoice process. While we observe substantial variation in accuracy, partici-pants are often highly accurate about their choice process – more accuratethan predicted by a sample of decision scientists – and more accurate thaninformed third-party observers, suggesting evidence for introspection. Theseresults challenge notions that we are strangers to ourselves and instead sug-gest that people often know how they made value-based choices."
 
 # Summary. An optional shortened abstract.
 summary: "A Morris, RW Carlson, H Kober & MJ Crockett <br>*Nature Communications* "
@@ -42,9 +42,9 @@ featured: true
 
 links:
 - name: Web
-  url: https://osf.io/preprints/psyarxiv/2zrfa_v1
+  url: https://rdcu.be/eiqzk
 - name: PDF
-  url: https://osf.io/preprints/psyarxiv/2zrfa_v1
+  url: https://rdcu.be/eiqzk
 
 
 #url_code: '#'
