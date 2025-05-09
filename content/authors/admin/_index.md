@@ -6,12 +6,12 @@ title: Ryan Carlson
 superuser: true
 
 # Role/position/tagline
-role: Principal Researcher
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Chicago
-  url: https://research.chicagobooth.edu/cdr/about-the-center
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include self and social cognition, motives, and morality.
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ryan.carlson@chicagobooth.edu'
+  link: 'mailto:r.carlson5@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/carlsonr_
