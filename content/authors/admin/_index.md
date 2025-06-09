@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:r.carlson5@gmail.com'
+  link: 'mailto:carlson.rwc@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/carlsonr_
