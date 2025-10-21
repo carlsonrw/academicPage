@@ -30,12 +30,6 @@ education:
   - course: Ph.D. in Psychology
     institution: Yale University
     year: 2023
-  - course: M.Phil. in Psychology
-    institution: Yale University
-    year: 2020
-  - course: B.A. (Hons.) in Psychology
-    institution: Simon Fraser University
-    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
