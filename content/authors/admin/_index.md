@@ -19,10 +19,8 @@ bio: My research interests include self and social cognition, motives, and moral
 # Interests to show in About widget
 interests:
 - Motivation
-- Introspection
-- Decision-making
-- Motivated Cognition
-- Computational Modelling
+- Morality
+- Computational Social Psychology
 
 # Education to show in About widget
 education:
