@@ -10,17 +10,17 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Constructive Dialogue Institute
-  url: https://constructivedialogue.org/
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include self and social cognition, motives, and morality.
 
 # Interests to show in About widget
 interests:
-- Motivation
 - Morality
-- Computational Social Psychology
+- Motivation
+- Modelling / AI
 
 # Education to show in About widget
 education:
