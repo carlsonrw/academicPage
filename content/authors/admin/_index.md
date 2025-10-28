@@ -6,12 +6,12 @@ title: Ryan Carlson
 superuser: true
 
 # Role/position/tagline
-role: 
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 
-  url: 
+- name: Constructive Dialogue Institute
+  url: https://constructivedialogue.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include self and social cognition, motives, and morality.
@@ -63,8 +63,8 @@ email: ""
 highlight_name: false
 ---
 
-How well do we know our own motives? How is our knowledge about what motivates us colored by those around us? Why do we sometimes see others, but rarely see ourselves, as motivated by self-interest? In my research, I examine these and other questions at the intersection of motivation, morality, and decision-making. Some of my research on these topics has been covered in popular press outlets, including [BBC](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way), [Time](https://time.com/5859459/in-defense-of-virtue-signaling-2/), and [Discover](https://www.discovermagazine.com/mind/how-will-we-remember-the-coronavirus-pandemic). 
+I’m a Research Scientist at the Constructive Dialogue Institute, where I develop AI tools and conduct research to help individuals and institutions communicate across differences and foster cultures of constructive dialogue. More broadly, my work explores how people's motivations and moral judgments shape how they people understand and engage with each other. My research has been featured in outlets [BBC](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way), [Time](https://time.com/5859459/in-defense-of-virtue-signaling-2/), and [Discover](https://www.discovermagazine.com/mind/how-will-we-remember-the-coronavirus-pandemic). 
 
-I am currently a Principal Researcher at the University of Chicago Booth School of Business. I received my PhD in Psychology from Yale University and my BA in Psychology from Simon Fraser University in British Columbia, Canada. Before graduate school, I worked as a full-time research assistant for two years at Stanford University. 
+Before CDI, I was a Principal Researcher at the University of Chicago Booth School of Business. I received my PhD in Psychology from Yale University and my BA in Psychology from Simon Fraser University in British Columbia, Canada. Before graduate school, I worked as a full-time research assistant for two years at Stanford University. 
 
 To learn more about my work, check out my [publications](#featured) below or on [Google Scholar](https://scholar.google.com/citations?user=kDJTGIUAAAAJ&hl=en&oi=ao).
