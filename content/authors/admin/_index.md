@@ -6,13 +6,12 @@ title: Ryan Carlson
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
-location: Chicago, IL
+role: Research Scientist 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 
-  url: 
+- name: Constructive Dialogue Institute
+  url: https://constructivedialogue.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include self and social cognition, motives, and morality.
