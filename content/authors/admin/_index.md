@@ -10,7 +10,7 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Constructive Dialogue Institute
+- name: CDI
   url: https://constructivedialogue.org/
 
 # Short bio (displayed in user profile at end of posts)
