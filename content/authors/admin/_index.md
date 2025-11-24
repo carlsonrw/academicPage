@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Research Scientist
+location: Chicago, IL
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: B.A. (Hons.) in Psychology
+    institution: Simon Fraser University
+    year: 2014
   - course: Ph.D. in Psychology
     institution: Yale University
     year: 2023
@@ -61,8 +65,8 @@ email: ""
 highlight_name: false
 ---
 
-I’m a Research Scientist at the Constructive Dialogue Institute, where I build AI tools and conduct research to help individuals and institutions communicate across differences and foster cultures of constructive dialogue. My research draws on insights from computational social psychology to study human morality. My research has been featured in outlets such as [BBC](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way), [Time](https://time.com/5859459/in-defense-of-virtue-signaling-2/), and [Discover](https://www.discovermagazine.com/mind/how-will-we-remember-the-coronavirus-pandemic). 
+I’m a Research Scientist at the [Constructive Dialogue Institute](https://constructivedialogue.org/). At CDI, I build AI-powered tools and conduct research to help individuals and institutions communicate across differences and foster cultures of constructive dialogue. My broader research draws on insights from computational social psychology, behavioral economics, and organizational behavior to answer fundamental questions about human morality. My research has been featured in outlets such as [BBC](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way), [Time](https://time.com/5859459/in-defense-of-virtue-signaling-2/), and [Discover](https://www.discovermagazine.com/mind/how-will-we-remember-the-coronavirus-pandemic). 
 
-I received my PhD in Psychology from Yale University and my postdoctoral training from the University of Chicago Booth School of Business. Before graduate school, I worked as a full-time research assistant for two years at Stanford University. 
+I received my BA from Simon fraser University just outside Vancouver, Canada, my PhD from Yale University, and my postdoctoral training from the University of Chicago. Before graduate school, I worked as a full-time research assistant for two years at Stanford University. 
 
 To learn more about my work, check out my [publications](#featured) below or on [Google Scholar](https://scholar.google.com/citations?user=kDJTGIUAAAAJ&hl=en&oi=ao).
