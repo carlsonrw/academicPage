@@ -25,12 +25,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.A. (Hons.) in Psychology
-    institution: Simon Fraser University
-    year: 2014
+  - course: Principal Researcher
+    institution: University of Chicago Booth School of Business
+    year: 2023-2025
   - course: Ph.D. in Psychology
     institution: Yale University
     year: 2023
+  - course: Research Assistant
+    institution: Stanford University
+    year: 2015-2017
+  - course: B.A. (Hons.) in Psychology
+    institution: Simon Fraser University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
