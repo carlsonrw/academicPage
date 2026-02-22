@@ -24,13 +24,11 @@ education:
   courses:
   - course: Principal Researcher
     institution: University of Chicago Booth School of Business
-    year: 2025
   - course: Ph.D. in Psychology
     institution: Yale University
     year: 2023
   - course: Research Assistant
     institution: Stanford University
-    year: 2017
   - course: B.A. (Hons.) in Psychology
     institution: Simon Fraser University
     year: 2014
