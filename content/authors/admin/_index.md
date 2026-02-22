@@ -18,22 +18,19 @@ bio: My research interests include self and social cognition, motives, and moral
 
 # Interests to show in About widget
 interests:
-- Morality
-- Motivation
-- Modelling / AI
 
 # Education to show in About widget
 education:
   courses:
   - course: Principal Researcher
     institution: University of Chicago Booth School of Business
-    year: 2023-2025
+    year: 2025
   - course: Ph.D. in Psychology
     institution: Yale University
     year: 2023
   - course: Research Assistant
     institution: Stanford University
-    year: 2015-2017
+    year: 2017
   - course: B.A. (Hons.) in Psychology
     institution: Simon Fraser University
     year: 2014
