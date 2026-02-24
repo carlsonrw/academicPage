@@ -68,8 +68,8 @@ email: ""
 highlight_name: false
 ---
 
-Human beings are capable of remarkable acts of kindness and hostility. I study the psychological forces that drive them.
+**Human beings are capable of remarkable acts of kindness and hostility. I study the psychological forces that drive them.**
 
-As a Research Scientist at the Constructive Dialogue Institute (CDI), I build AI-powered tools and conduct research to help people navigate disagreement with more empathy and less defensiveness. This work reflects my broader interest in how human motivation and morality collide to shape our social judgments and behavior. My approach combines behavioral experiments, field studies, and computational modelling. Some of this work has been covered by [BBC](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way), [Time](https://time.com/5859459/in-defense-of-virtue-signaling-2/), and [Discover](https://www.discovermagazine.com/mind/how-will-we-remember-the-coronavirus-pandemic). 
+I'm a Research Scientist at the Constructive Dialogue Institute (CDI), where I build AI-powered tools and conduct research to help people navigate disagreement more constructively. More broadly, my work examines how human motivation and morality collide to shape our social judgments and behavior. To this end, I use a mix of behavioral experiments, field studies, and computational modelling. Some of this work has been covered by [BBC](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way), [Time](https://time.com/5859459/in-defense-of-virtue-signaling-2/), and [Discover](https://www.discovermagazine.com/mind/how-will-we-remember-the-coronavirus-pandemic). 
 
 I received my PhD from Yale University and my postdoctoral training from the University of Chicago Booth School of Business. To learn more about my work, find my [publications](#featured) below or on [Google Scholar](https://scholar.google.com/citations?user=kDJTGIUAAAAJ&hl=en&oi=ao).
