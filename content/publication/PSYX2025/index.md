@@ -14,7 +14,7 @@ title: "Optimal task representations for engagement, enjoyment, and performance"
 # - ""
 # - ""
 
-date: "2024-09-10T00:00:00Z"
+date: "2025-03-10T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
