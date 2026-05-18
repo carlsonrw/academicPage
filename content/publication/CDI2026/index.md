@@ -39,8 +39,8 @@ tags:
 featured: true
 
 links:
-- name: Preprint PDF
-  url: https://drive.google.com/file/d/1HLt3MjeSLuKRQmE6eAv4hhdPkT2tLg7T/view?usp=drive_link
+- name: SSRN Preprint
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6696338
 - name: Official White Paper
   url: https://s3.us-east-2.amazonaws.com/craft-cdi/uploads/Can-AI-Teach-Dialogue-Skills-CDI-White-Paper.pdf
 
