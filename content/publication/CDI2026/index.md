@@ -43,6 +43,8 @@ links:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6696338
 - name: Official White Paper
   url: https://s3.us-east-2.amazonaws.com/craft-cdi/uploads/Can-AI-Teach-Dialogue-Skills-CDI-White-Paper.pdf
+- name: InsideHigherEd Article
+  url: https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/04/20/college-students-are-more-polarized-ever
 
 
 #url_code: '#'
