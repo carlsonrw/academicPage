@@ -17,7 +17,7 @@ date: "2025-11-10T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2024-02-01T00:00:00Z"
+# publishDate: "2026-08-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +26,13 @@ date: "2025-11-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "under review"
+# publication: "Open Mind"
 publication_short: ""
 
 abstract: "Scientists often measure people’s morality in dollars and cents. Altruistic people give away money to strangers and charities, and selfish people keep money for themselves—the logic goes. This ‘pay-to-play’ approach to the study of social preferences has grown popular with the rise in online experiments. Here, we revisit some of the guiding assumptions of this approach by asking participants directly about their subjective experiences of charitable giving experiments. In three studies (N=1384), we probed online workers' subjective motives and fairness standards as they made charitable decisions with an endowment. We find that workers’ motives for keeping money often appear to stem not from greed or a lack of concern for others, but from pressing financial need (e.g., being unemployed, behind on bills, or in need of groceries). Such individuals also tend to report annual incomes bordering the US poverty line. These findings have practical implications for how to motivate generosity, as individuals reporting financial need show little change in their giving behavior following nudge interventions encouraging them to donate. Many of these individuals view keeping money not as selfish, but morally fair, and third-party judges hold this view as well. These findings speak to the vital importance of considering subjective experience when studying and intervening on human morality."
 
 # Summary. An optional shortened abstract.
-summary: "RW Carlson & MJ Crockett <br>*under review* "
+summary: "RW Carlson & MJ Crockett <br>*in press* "
 
 tags:
 #- Source Themes
