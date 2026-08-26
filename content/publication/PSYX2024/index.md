@@ -13,7 +13,7 @@ title: "The pitfalls of pay-to-play morality"
 # - ""
 # - ""
 
-date: "2026-08-34T00:00:00Z"
+date: "2026-08-24T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ publication_short: ""
 abstract: "Scientists often measure people’s morality in dollars and cents. Altruistic people give away money to strangers and charities, and selfish people keep money for themselves—the logic goes. This ‘pay-to-play’ approach to the study of social preferences has grown popular with the rise in online experiments. Here, we revisit some of the guiding assumptions of this approach by asking participants directly about their subjective experiences of charitable giving experiments. In three studies (N=1384), we probed online workers' subjective motives and fairness standards as they made charitable decisions with an endowment. We find that workers’ motives for keeping money often appear to stem not from greed or a lack of concern for others, but from pressing financial need (e.g., being unemployed, behind on bills, or in need of groceries). Such individuals also tend to report annual incomes bordering the US poverty line. These findings have practical implications for how to motivate generosity, as individuals reporting financial need show little change in their giving behavior following nudge interventions encouraging them to donate. Many of these individuals view keeping money not as selfish, but morally fair, and third-party judges hold this view as well. These findings speak to the vital importance of considering subjective experience when studying and intervening on human morality."
 
 # Summary. An optional shortened abstract.
-summary: "RW Carlson & MJ Crockett <br>*Open Mind* "
+summary: "RW Carlson & MJ Crockett <br>*Open Mind*"
 
 tags:
 #- Source Themes
