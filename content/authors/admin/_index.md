@@ -10,7 +10,7 @@ role: Behavioral Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Chicago, IL
+- name: 
   url: 
 
 # Short bio (displayed in user profile at end of posts)
