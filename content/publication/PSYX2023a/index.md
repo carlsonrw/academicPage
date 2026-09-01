@@ -3,11 +3,11 @@ title: "Quantifying accuracy and bias in motive introspection"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-# - Ryan W. Carlson
-# - Yoonseo Zoh
-# - Adam Morris
-# - M.J. Crockett
+authors:
+- admin
+- Yoonseo Zoh
+- Adam Morris
+- M. J. Crockett
 
 # Author notes (optional)
 # author_notes:
@@ -28,7 +28,7 @@ date: "2025-09-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "under review"
+publication: "PsyArXiv"
 publication_short: ""
 
 abstract: "How well do people know their own motives? As veridical as introspection might seem intuitively, scientists often question subjective reports on motives, deeming them biased, inaccurate, or no more revealing than inferences made by outside observers. Such concerns about introspection are often cited, but less often tested. Here we present an approach for quantifying introspective accuracy and bias. Across five experiments (N=2191), we systematically compared people’s subjective reports of how much they wanted different outcomes to the preferences revealed by their actual choices. To probe biases, we compared a choice domain which typically features self-image concerns (reporting prosocial motivation) with one which does not (reporting nonsocial motives; Experiments 1a & 1b). To test for an insider advantage in introspective accuracy, we compared the accuracy of people’s reports about their own motives to the reports of an independent set of “observer” participants (Experiment 2). Finally, to probe whether subjective reports capture dynamic changes in motives, we examined introspective accuracy before and after experimentally shifting people’s social preferences (Experiments 3a & 3b). Across all experiments, we find evidence of robust introspective accuracy. Subjective reports of motives were strongly correlated with revealed preferences—exceeding chance and inferences made by observers—and these reports accurately updated when preferences changed. We also detected a bias: individuals whose motives deviated from their own standards tended to distort their level of prosocial motivation. By developing a method for probing the precision of motive introspection, this work challenges assumptions about its inherent unreliability—instead highlighting the value of subjective reports for predicting human behavior."

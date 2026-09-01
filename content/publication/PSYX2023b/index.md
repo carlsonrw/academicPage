@@ -3,11 +3,11 @@ title: "Introspective access to value-based choice processes"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-# - Adam Morris
-# - Ryan W. Carlson
-# - Hedy Kober
-# - M.J. Crockett
+authors:
+- Adam Morris
+- admin
+- Hedy Kober
+- M. J. Crockett
 
 # Author notes (optional)
 # author_notes:
@@ -16,7 +16,7 @@ title: "Introspective access to value-based choice processes"
 # - ""
 
 date: "2025-02-10T00:00:00Z"
-#doi: ""
+doi: "10.1038/s41467-025-59080-y"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2025-02-01T00:00:00Z"
@@ -28,7 +28,7 @@ date: "2025-02-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Nature Communications"
+publication: "Nature Communications"
 publication_short: ""
 
 abstract: "People routinely choose between options varying on multiple attributes –homes to rent, movies to watch, and so on. Here, we test how much awarenesspeople have of the mental processes underlying these choices. We develop amethod to quantify awareness of value-based multi-attribute choice processesthat accounts for diverse choice strategies. Across five studies, participantsmake choices and then report how they believe they made them. We usecomputational modeling to identify the process revealed in their choices, andcompare it to their self-reports to quantify individuals’ accuracy about theirchoice process. While we observe substantial variation in accuracy, partici-pants are often highly accurate about their choice process – more accuratethan predicted by a sample of decision scientists – and more accurate thaninformed third-party observers, suggesting evidence for introspection. Theseresults challenge notions that we are strangers to ourselves and instead sug-gest that people often know how they made value-based choices."
@@ -44,8 +44,9 @@ links:
 - name: Web
   url: https://rdcu.be/eiqzk
 - name: PDF
-  url: https://rdcu.be/eiqzk
+  url: https://www.nature.com/articles/s41467-025-59080-y.epdf
 
+url_pdf: "https://www.nature.com/articles/s41467-025-59080-y.pdf"
 
 #url_code: '#'
 #url_dataset: '#'

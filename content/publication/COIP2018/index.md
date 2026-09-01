@@ -3,11 +3,9 @@ title: "The lateral prefrontal cortex and moral goal pursuit"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-# - Ryan W. Carlson
-# - Chance Adkins
-# - Molly J. Crockett
-# - Margaret S. Clark
+authors:
+- admin
+- M. J. Crockett
 
 # Author notes (optional)
 # author_notes:
@@ -29,7 +27,7 @@ date: "2018-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Perspectives on Psychological Science"
+publication: "Current Opinion in Psychology"
 publication_short: ""
 
 abstract: "In the face of competing desires, humans often strive to be fair, honest, and considerate of others. Research from social neuroscience implicates the lateral prefrontal cortex (LPFC) in our capacity to pursue such goals, yet its precise computational role is less clear. Here, we draw on insights from the neuroscience of hierarchical control and value-based choice to offer an integrative look at how LPFC supports the pursuit of moral goals. We conclude by highlighting how future work may leverage these insights to deepen our understanding of the dynamic neural code of morality."
@@ -46,6 +44,8 @@ links:
   url: https://www.sciencedirect.com/science/article/pii/S2352250X18300034
 - name: PDF
   url: https://drive.google.com/file/d/1YPLVunN5Sj61gm8fD1n-40yMNMOQffvR/view?usp=sharing
+
+url_pdf: "https://drive.google.com/uc?export=download&id=1YPLVunN5Sj61gm8fD1n-40yMNMOQffvR"
 
 #url_code: '#'
 #url_dataset: '#'

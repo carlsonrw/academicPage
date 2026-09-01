@@ -3,10 +3,10 @@ title: "A computational theory of the subjective experience of flow"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-# - David E. Melnikoff
-# - Ryan W. Carlson
-# - Paul E. Stillman
+authors:
+- David E. Melnikoff
+- admin
+- Paul E. Stillman
 
 # Author notes (optional)
 # author_notes:
@@ -15,7 +15,7 @@ title: "A computational theory of the subjective experience of flow"
 # - ""
 
 date: "2022-04-22T00:00:00Z"
-#doi: ""
+doi: "10.1038/s41467-022-29742-2"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2018-02-01T00:00:00Z"
@@ -27,7 +27,7 @@ date: "2022-04-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Nature Communications"
+publication: "Nature Communications"
 publication_short: ""
 
 abstract: "Flow is a subjective state characterized by immersion and engagement in one’s current activity. The benefits of flow for productivity and health are well-documented, but a rigorous description of the flow-generating process remains elusive. Here we develop and empirically test a theory of flow’s computational substrates: the informational theory of flow. Our theory draws on the concept of mutual information, a fundamental quantity in information theory that quantifies the strength of association between two variables. We propose that the mutual information between desired end states and means of attaining them — 𝐼(𝑀;𝐸) — gives rise to flow. We support our theory across five experiments (four preregistered) by showing, across multiple activities, that increasing 𝐼(𝑀;𝐸) increases flow and has important downstream benefits, including enhanced attention and enjoyment. We rule out alternative constructs including alternative metrics of associative strength, psychological constructs previously shown to predict flow, and various forms of instrumental value."
@@ -46,6 +46,8 @@ links:
   url: https://www.nature.com/articles/s41467-022-29742-2.pdf
 - name: OSF
   url: https://osf.io/23vst/
+
+url_pdf: "https://www.nature.com/articles/s41467-022-29742-2.pdf"
 
 #url_code: '#'
 #url_dataset: '#'

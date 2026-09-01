@@ -1,0 +1,17 @@
+// Custom SCSS overrides. Imported last by the Wowchemy theme, so no !important needed.
+
+// Let the profile photo keep its own aspect ratio instead of being cropped
+// to a square by the theme's fixed 270x270 box + object-fit: cover.
+.avatar {
+  width: 270px;
+  height: auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+@include media-breakpoint-down(sm) {
+  .wg-about .avatar {
+    width: 200px;
+    height: auto;
+  }
+}

@@ -3,9 +3,9 @@ title: "The pitfalls of pay-to-play morality"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-# - Ryan W. Carlson
-# - M.J. Crockett
+authors:
+- admin
+- M. J. Crockett
 
 # Author notes (optional)
 # author_notes:
@@ -26,7 +26,7 @@ date: "2025-11-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "under review"
+publication: "PsyArXiv"
 publication_short: ""
 
 abstract: "Scientists often measure people’s morality in dollars and cents. Altruistic people give away money to strangers and charities, and selfish people keep money for themselves—the logic goes. This ‘pay-to-play’ approach to the study of social preferences has grown popular with the rise in online experiments. Here, we revisit some of the guiding assumptions of this approach by asking participants directly about their subjective experiences of charitable giving experiments. In three studies (N=1384), we probed online workers' subjective motives and fairness standards as they made charitable decisions with an endowment. We find that workers’ motives for keeping money often appear to stem not from greed or a lack of concern for others, but from pressing financial need (e.g., being unemployed, behind on bills, or in need of groceries). Such individuals also tend to report annual incomes bordering the US poverty line. These findings have practical implications for how to motivate generosity, as individuals reporting financial need show little change in their giving behavior following nudge interventions encouraging them to donate. Many of these individuals view keeping money not as selfish, but morally fair, and third-party judges hold this view as well. These findings speak to the vital importance of considering subjective experience when studying and intervening on human morality."

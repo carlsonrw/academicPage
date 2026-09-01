@@ -3,7 +3,10 @@ title: "When is giving an impulse? An ERP study of intuitive prosocial behavior"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
+authors:
+- admin
+- L. B. Aknin
+- M. Liotti
 
 # Author notes (optional)
 # author_notes:
@@ -13,7 +16,7 @@ title: "When is giving an impulse? An ERP study of intuitive prosocial behavior"
 # - ""
 
 date: "2016-07-01T00:00:00Z"
-#doi: ""
+doi: "10.1093/scan/nsv077"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2018-02-01T00:00:00Z"
@@ -25,7 +28,7 @@ date: "2016-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Perspectives on Psychological Science"
+publication: "Social Cognitive and Affective Neuroscience"
 publication_short: ""
 
 abstract: "Human prosociality is often assumed to emerge from exerting reflective control over initial, selfish impulses. However, recent findings suggest that prosocial actions can also stem from processes that are fast, automatic and intuitive. Here, we attempt to clarify when prosocial behavior may be intuitive by examining prosociality as a form of reward seeking. Using event-related potentials (ERPs), we explored whether a neural signature that rapidly encodes the motivational salience of an event—the P300—can predict intuitive prosocial motivation. Participants allocated varying amounts of money between themselves and charities they initially labelled as high- or low-empathy targets under conditions that promoted intuitive or reflective decision making. Consistent with our predictions, P300 amplitude over centroparietal regions was greater when giving involved high-empathy targets than low-empathy targets, but only when deciding under intuitive conditions. Reflective conditions, alternatively, elicited an earlier frontocentral positivity related to response inhibition, regardless of target. Our findings suggest that during prosocial decision making, larger P300 amplitude could (i) signal intuitive prosocial motivation and (ii) predict subsequent engagement in prosocial behavior. This work offers novel insight into when prosociality may be driven by intuitive processes and the roots of such behaviors."
@@ -42,6 +45,8 @@ links:
   url: https://academic.oup.com/scan/article/11/7/1121/1753464?login=true
 - name: PDF
   url: https://academic.oup.com/scan/article-pdf/11/7/1121/27103123/nsv077.pdf
+url_pdf: "https://academic.oup.com/scan/article-pdf/11/7/1121/27103123/nsv077.pdf"
+
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

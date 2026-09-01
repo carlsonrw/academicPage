@@ -3,11 +3,9 @@ title: "Good deeds gone bad: Lay theories of altruism and selfishness"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-# - Ryan W. Carlson
-# - Chance Adkins
-# - Molly J. Crockett
-# - Margaret S. Clark
+authors:
+- admin
+- J. Zaki
 
 # Author notes (optional)
 # author_notes:
@@ -29,7 +27,7 @@ date: "2018-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Perspectives on Psychological Science"
+publication: "Journal of Experimental Social Psychology"
 publication_short: ""
 
 abstract: "When people help others, they often benefit themselves as well. Do these benefits disqualify prosocial acts from being truly altruistic? Scientists and philosophers have long debated this question, but few have considered laypeople's beliefs about altruism. Here, we examine such lay theories surrounding altruism. Across two studies, observers read about agents who behaved prosocially. In some cases, agents benefitted materially, socially, or emotionally from their actions (self-oriented consequences); in other cases, they acted in order to accrue these benefits (self-oriented motives). Observers “penalized” actions that produced self-oriented consequences – rating them as less altruistic than actions involving no such benefit – unless these benefits were emotional. When agents' actions involved self-oriented motives, observers penalized them more harshly, viewing their behavior as more selfish than even clearly non-prosocial acts. These data suggest that lay theories distinguish between motives for, and “side effects” of, prosocial actions, converging with recent psychological theories of altruism."
@@ -49,6 +47,8 @@ links:
 - name: GitHub
   url: https://github.com/carlsonrw/layTheories_altruism
 
+
+url_pdf: "https://drive.google.com/uc?export=download&id=1DvyoEb8J9d4HcoaraHfT8jKXtJnQ7hdZ"
 
 #url_code: '#'
 #url_dataset: '#'

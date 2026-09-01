@@ -3,10 +3,10 @@ title: "Optimal task representations for engagement, enjoyment, and performance"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-# - David E. Melnikoff
-# - Ryan W. Carlson
-# - Paul E. Stillman
+authors:
+- David E. Melnikoff
+- admin
+- Paul E. Stillman
 
 # Author notes (optional)
 # author_notes:
@@ -27,7 +27,7 @@ date: "2025-03-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "under review"
+publication: "OSF Preprints"
 publication_short: ""
 
 abstract: "Imagine if you could make your activities more immersive and engaging simply by changing how you mentally represent them. The benefits could be substantial: the feeling of immersion and engagement—commonly called “flow”—is associated with many desirable outcomes, including greater enjoyment and improved performance. Unfortunately, the mechanisms linking task representations to flow remain poorly understood. Prior research has focused on how flow relates to the objective properties of tasks themselves, leaving the role of task representations unexplored. Here we address this gap with a computational account of how task representations shape flow, offering unique and precise predictions about which representations will optimize flow, along with the related outcomes of enjoyment and performance.According to our model, task representations shape flow by modulating the mutual information between mental representations of desired end states and means of attaining them, or I(M;E). Across  three  experiments, we found robust  support for the  model’s  predictions:  task representations  boosted  flow, enjoyment, and  performance by boosting I(M;E) . These findings advance our understanding of the computational basis of flow and, more broadly, how we can control our outcomes not by changing our situation, but by altering how we think about it. They also provide actionable strategies for fostering engagement, enjoyment, and performance in daily life"

@@ -3,11 +3,12 @@ title: "Motivated misremembering of selfish decisions"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-# - Ryan W. Carlson
-# - Chance Adkins
-# - Molly J. Crockett
-# - Margaret S. Clark
+authors:
+- admin
+- M. A. Maréchal
+- B. Oud
+- E. Fehr
+- M. J. Crockett
 
 # Author notes (optional)
 # author_notes:
@@ -17,7 +18,7 @@ title: "Motivated misremembering of selfish decisions"
 # - ""
 
 date: "2020-04-01T00:00:00Z"
-#doi: ""
+doi: "10.1038/s41467-020-15602-4"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2018-02-01T00:00:00Z"
@@ -29,7 +30,7 @@ date: "2020-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Perspectives on Psychological Science"
+publication: "Nature Communications"
 publication_short: ""
 
 abstract: "People often prioritize their own interests, but also like to see themselves as moral. How do individuals resolve this tension? One way to both pursue personal gain and preserve a moral self-image is to misremember the extent of one’s selfishness. Here, we test this possibility. Across five experiments (N=3190), we find that people tend to recall being more generous in the past than they actually were, even when they are incentivized to recall their decisions accurately. Crucially, this motivated misremembering effect occurs chiefly for individuals whose choices violate their own fairness standards, irrespective of how high or low those standards are. Moreover, this effect disappears under conditions where people no longer perceive themselves as responsible for their fairness violations. Together, these findings suggest that when people’s actions fall short of their personal standards, they may misremember the extent of their selfishness, thereby potentially warding off threats to their moral self-image. "
@@ -48,6 +49,8 @@ links:
   url: https://rdcu.be/b3UvR
 - name: OSF
   url: https://osf.io/pzwt7/
+
+url_pdf: "https://www.nature.com/articles/s41467-020-15602-4.pdf"
 
 #url_code: '#'
 #url_dataset: '#'

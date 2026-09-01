@@ -3,11 +3,11 @@ title: "Identifying social partners through indirect prosociality: A computation
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-# - Isaac Davis
-# - Ryan W. Carlson
-# - Yarrow Dunham
-# - Jullian Jara-Ettinger
+authors:
+- Isaac Davis
+- admin
+- Yarrow Dunham
+- Jullian Jara-Ettinger
 
 # Author notes (optional)
 # author_notes:
@@ -28,7 +28,7 @@ date: "2023-08-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "in press"
+publication: "Cognition"
 publication_short: ""
 
 abstract: "In social life, it is useful to identify social partners who are prosocial,
@@ -64,6 +64,8 @@ links:
   url: https://drive.google.com/file/d/1ChfKccBFJM2n9X_v-M5aV3gClMBe9KA4/view?usp=drive_link
 - name: OSF
   url: https://osf.io/8extq/
+
+url_pdf: "https://drive.google.com/uc?export=download&id=1ChfKccBFJM2n9X_v-M5aV3gClMBe9KA4"
 
 #url_code: '#'
 #url_dataset: '#'

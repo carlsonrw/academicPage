@@ -3,7 +3,9 @@ title: "Belief in altruistic motives predicts prosocial actions and inferences"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
+authors:
+- admin
+- J. Zaki
 
 # Author notes (optional)
 # author_notes:
@@ -13,7 +15,7 @@ title: "Belief in altruistic motives predicts prosocial actions and inferences"
 # - ""
 
 date: "2021-07-01T00:00:00Z"
-#doi: ""
+doi: "10.1177/00332941211013529"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2018-02-01T00:00:00Z"
@@ -25,7 +27,7 @@ date: "2021-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Psychological Reports"
+publication: "Psychological Reports"
 publication_short: ""
 
 abstract: "Are humans ever truly altruistic? Or are all actions, however noble, ultimately motivated by self-interest? Psychologists and philosophers have long grappled with this question, but few have considered laypeople’s beliefs about the nature of prosocial motives. Here we examine these beliefs and their social correlates across two experiments (N=445). We find that people tend to believe humans can be, and frequently are, altruistically motivated—echoing prior work. Moreover, people who more strongly believe in altruistic motives act more prosocially themselves—for instance, sacrificing greater amounts of money and time to help others—a relationship that holds even when controlling for trait empathy. People who believe in altruistic motives also judge other prosocial agents to be more genuinely kind, especially when agents’ motives are ambiguous. Lastly, people independently show a self-serving bias—believing their own motives for prosociality are more often altruistic than others’. Overall, this work suggests that believing in altruistic motives predicts the extent to which people both see altruism and act prosocially, possibly reflecting the self-fulfilling nature of such lay theories."

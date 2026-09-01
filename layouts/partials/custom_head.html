@@ -1,0 +1,53 @@
+{{/* Google Scholar citation_* meta tags for publication pages */}}
+{{ if and .IsPage (eq .Section "publication") }}
+  <meta name="citation_title" content="{{ .Params.title }}">
+
+  {{ range .Params.authors }}
+    {{ $authorPage := site.GetPage (printf "/authors/%s" .) }}
+    {{ if $authorPage }}
+      <meta name="citation_author" content="{{ $authorPage.Title }}">
+    {{ else }}
+      <meta name="citation_author" content="{{ . }}">
+    {{ end }}
+  {{ end }}
+
+  {{ with .Date }}
+    <meta name="citation_publication_date" content="{{ .Format "2006/01/02" }}">
+  {{ end }}
+
+  {{ $pubName := .Params.publication }}
+  {{ $type := "" }}
+  {{ with .Params.publication_types }}{{ $type = index . 0 }}{{ end }}
+  {{ if $pubName }}
+    {{ if eq $type "1" }}
+      <meta name="citation_conference_title" content="{{ $pubName }}">
+    {{ else if or (eq $type "2") (eq $type "3") }}
+      <meta name="citation_journal_title" content="{{ $pubName }}">
+    {{ else if eq $type "4" }}
+      <meta name="citation_technical_report_institution" content="{{ $pubName }}">
+    {{ else if eq $type "5" }}
+      <meta name="citation_book_title" content="{{ $pubName }}">
+    {{ else if eq $type "6" }}
+      <meta name="citation_inbook_title" content="{{ $pubName }}">
+    {{ end }}
+  {{ end }}
+
+  {{ with .Params.doi }}
+    <meta name="citation_doi" content="{{ . }}">
+  {{ end }}
+
+  {{ with .Params.url_pdf }}
+    {{ $pdfURL := . }}
+    {{ if not (or (hasPrefix $pdfURL "http://") (hasPrefix $pdfURL "https://")) }}
+      {{ $pdfURL = absURL $pdfURL }}
+    {{ end }}
+    <meta name="citation_pdf_url" content="{{ $pdfURL }}">
+  {{ end }}
+
+  <meta name="citation_abstract_html_url" content="{{ .Permalink }}">
+
+  {{ with .Params.volume }}<meta name="citation_volume" content="{{ . }}">{{ end }}
+  {{ with .Params.issue }}<meta name="citation_issue" content="{{ . }}">{{ end }}
+  {{ with .Params.firstpage }}<meta name="citation_firstpage" content="{{ . }}">{{ end }}
+  {{ with .Params.lastpage }}<meta name="citation_lastpage" content="{{ . }}">{{ end }}
+{{ end }}

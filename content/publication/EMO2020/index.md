@@ -3,11 +3,11 @@ title: "Building empathy through motivation-based interventions"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-# - Ryan W. Carlson
-# - Chance Adkins
-# - Molly J. Crockett
-# - Margaret S. Clark
+authors:
+- E. Weisz
+- D. C. Ong
+- admin
+- J. Zaki
 
 # Author notes (optional)
 # author_notes:
@@ -29,7 +29,7 @@ date: "2020-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Perspectives on Psychological Science"
+publication: "Emotion"
 publication_short: ""
 
 abstract: "Empathy is associated with adaptive social and emotional outcomes; as such, a crucial outstanding question is whether it can be bolstered in ways that make practical differences in people's lives. Most empathy-building efforts address one's ability to empathize, increasing empathy by training skills like perspective taking. However, empathy is more than the ability to share and understand others' feelings; it also reflects underlying motives that drive people to experience or avoid it. As such, another strategy for increasing empathy could focus on shifting relevant motives. Here we explored this idea, leveraging two intervention techniques (mindsets and social norms) to increase motivation to empathize. Two hundred ninety-two first-year college students were randomly assigned to one of three intervention conditions-malleable mindset, social norms, or a combination of the two-or a control condition. Eight weeks later, participants in the intervention conditions endorsed stronger beliefs about empathy's malleability and exhibited greater empathic accuracy when rating others' positive emotions as compared to the control condition. They also reported having made a greater number of friends since starting college. The interventions did not affect outcomes related to intergroup processes or empathic accuracy when rating others' negative emotions, indicating a boundary condition for these interventions. This experiment underscores the potential of motivation-based empathy interventions to generate positive, real-world impact."
@@ -49,6 +49,8 @@ links:
 - name: OSF
   url: https://osf.io/f4czb/
 
+
+url_pdf: "https://drive.google.com/uc?export=download&id=1nAnP32RPMFfkcLUTseBDHbFo-c6h__P5"
 
 #url_code: '#'
 #url_dataset: '#'
