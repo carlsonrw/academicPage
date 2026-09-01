@@ -13,11 +13,11 @@ authors:
 # - ""
 # - ""
 
-date: "2025-11-10T00:00:00Z"
+date: "2026-08-24T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2024-02-01T00:00:00Z"
+# publishDate: "2026-08-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +26,13 @@ date: "2025-11-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "PsyArXiv"
+# publication: "under review"
 publication_short: ""
 
-abstract: "Scientists often measure people’s morality in dollars and cents. Altruistic people give away money to strangers and charities, and selfish people keep money for themselves—the logic goes. This ‘pay-to-play’ approach to the study of social preferences has grown popular with the rise in online experiments. Here, we revisit some of the guiding assumptions of this approach by asking participants directly about their subjective experiences of charitable giving experiments. In three studies (N=1384), we probed online workers' subjective motives and fairness standards as they made charitable decisions with an endowment. We find that workers’ motives for keeping money often appear to stem not from greed or a lack of concern for others, but from pressing financial need (e.g., being unemployed, behind on bills, or in need of groceries). Such individuals also tend to report annual incomes bordering the US poverty line. These findings have practical implications for how to motivate generosity, as individuals reporting financial need show little change in their giving behavior following nudge interventions encouraging them to donate. Many of these individuals view keeping money not as selfish, but morally fair, and third-party judges hold this view as well. These findings speak to the vital importance of considering subjective experience when studying and intervening on human morality."
+abstract: "Morality is often measured in dollars and cents. Economic games and charitable giving tasks frame giving money to strangers as moral and keeping money as selfish. This ‘pay-to-play’ paradigm has grown popular with the rise of online experiments, yet its underlying assumptions often go untested. Here, we present data that complicate the use of this paradigm for measuring moral behavior in online settings. We invited US crowdworkers (N=1384) to make charitable decisions and measured not just their choices, but the motives and meanings they ascribed to those choices. We found that nearly half of crowdworkers (47%) reported keeping money out of acute financial need (e.g., struggling to pay for housing, medical care, or groceries). These individuals reported significantly lower incomes, and did not view their decisions to keep the money as unfair. Third-party judges (N=140) agreed that keeping money in economic tasks out of financial need was not selfish at all. Finally, we found that crowdworkers reporting financial need were unresponsive to standard social norm interventions that increased giving among the rest of our sample. Overall, these findings challenge the assumption that keeping money uniformly reflects selfishness, and raise ethical and practical questions about how experimenters should define, measure, and motivate moral behavior."
 
 # Summary. An optional shortened abstract.
-summary: "RW Carlson & MJ Crockett <br>*under review* "
+summary: "RW Carlson & MJ Crockett <br>*Open Mind*"
 
 tags:
 #- Source Themes

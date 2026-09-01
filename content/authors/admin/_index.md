@@ -10,7 +10,7 @@ role: Behavioral Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Chicago, IL
+- name: 
   url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,6 +68,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm a Research Scientist at the Constructive Dialogue Institute (CDI), where I build AI-powered tools and conduct research to help people navigate disagreement more constructively. I'm also a Research Affiliate at Princeton University. Broadly, my work examines how motivation and morality interact: what drives prosocial behavior, how we judge others' motives for it, and how well we can introspect on our own. I pursue these questions through a mix of behavioral experiments, field studies, and computational modelling. Some of this work has been covered by [BBC](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way), [Time](https://time.com/5859459/in-defense-of-virtue-signaling-2/), and [Discover](https://www.discovermagazine.com/mind/how-will-we-remember-the-coronavirus-pandemic). 
+I'm a Research Scientist at the [Constructive Dialogue Institute](https://constructivedialogue.org/) (CDI), where I build AI-powered tools and conduct research to help people navigate disagreement more effectively. I'm also a Research Affiliate at [Princeton University](https://psychology.princeton.edu/). 
+
+Broadly, my research examines the intersection of human motivation and morality. Lately, I've focused on why groups cooperate versus clash, how they make sense of those on the other side, and what interventions help them find common ground. My work uses a mix of behavioral experiments, field studies, and computational modelling. Some of this work has been covered by [BBC](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way), [Time](https://time.com/5859459/in-defense-of-virtue-signaling-2/), and [Discover](https://www.discovermagazine.com/mind/how-will-we-remember-the-coronavirus-pandemic). 
 
 I grew up in Vancouver, Canada, where I earned my BA at Simon Fraser University. I received my PhD from Yale University and my postdoctoral training from the University of Chicago Booth School of Business. To learn more about my work, find my [publications](#featured) below or on [Google Scholar](https://scholar.google.com/citations?user=kDJTGIUAAAAJ&hl=en&oi=ao).
