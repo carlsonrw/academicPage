@@ -30,13 +30,11 @@
   </span>
   {{ end }}
 
-  {{/* Only emit the divider when there is actually a publication name to show,
-       otherwise a bare middot is left dangling after the date. */}}
-  {{ $pub_name := or $page.Params.publication_short $page.Params.publication }}
-  {{ if and (eq $is_list 1) (eq $page.Type "publication") $pub_name }}
-  <span class="middot-divider"></span>
-  <span class="pub-publication">{{ $pub_name | markdownify }}</span>
-  {{ end }}
+  {{/* The theme shows the journal name next to the date in list view, but each
+       publication already renders its own journal line under the title via the
+       `summary` field, so it is omitted here to leave just the date.
+       Scholar indexing is unaffected: it reads citation_journal_title from the
+       meta tags in custom_head.html, not from this markup. */}}
 
   {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
   <span class="middot-divider"></span>
