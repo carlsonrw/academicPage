@@ -42,7 +42,7 @@ links:
 - name: PDF
   url: https://osf.io/preprints/psyarxiv/ycdfz
 - name: Web
-  url: https://osf.io/preprints/psyarxiv/ycdfz
+  url: https://doi.org/10.31234/osf.io/ycdfz_v4
 
 
 #url_code: '#'
