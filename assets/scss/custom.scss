@@ -15,3 +15,10 @@
     height: auto;
   }
 }
+
+// Align the top of the profile photo with the top of the about text.
+// The theme's #profile block adds 30px of top padding, which drops the
+// photo below the first line of the right-hand column.
+#profile {
+  padding-top: 0;
+}
