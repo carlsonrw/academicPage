@@ -43,8 +43,6 @@ featured: true
 links:
 - name: Web
   url: https://rdcu.be/eiqzk
-- name: PDF
-  url: https://www.nature.com/articles/s41467-025-59080-y.epdf
 
 url_pdf: "https://www.nature.com/articles/s41467-025-59080-y.pdf"
 

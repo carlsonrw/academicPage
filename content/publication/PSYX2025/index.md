@@ -40,9 +40,9 @@ tags:
 featured: true
 
 links:
-- name: Web
-  url: https://osf.io/preprints/osf/v93cp_v1
 - name: PDF
+  url: https://osf.io/preprints/osf/v93cp_v1
+- name: Web
   url: https://osf.io/preprints/osf/v93cp_v1
 
 

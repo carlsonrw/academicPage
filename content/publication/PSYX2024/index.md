@@ -39,9 +39,9 @@ tags:
 featured: true
 
 links:
-- name: Web
-  url: https://osf.io/preprints/psyarxiv/ycdfz
 - name: PDF
+  url: https://osf.io/preprints/psyarxiv/ycdfz
+- name: Web
   url: https://osf.io/preprints/psyarxiv/ycdfz
 
 
