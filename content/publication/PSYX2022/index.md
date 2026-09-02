@@ -60,8 +60,6 @@ featured: true
 links:
 - name: Web
   url: https://www.sciencedirect.com/science/article/abs/pii/S0010027723002147
-- name: PDF
-  url: https://drive.google.com/file/d/1ChfKccBFJM2n9X_v-M5aV3gClMBe9KA4/view?usp=drive_link
 - name: OSF
   url: https://osf.io/8extq/
 

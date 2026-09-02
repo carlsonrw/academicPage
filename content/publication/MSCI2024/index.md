@@ -41,8 +41,6 @@ featured: true
 links:
 - name: Web
   url: https://psycnet.apa.org/fulltext/2024-81057-001.html
-- name: PDF
-  url: https://psycnet.apa.org/fulltext/2024-81057-001.pdf
 
 url_pdf: "https://psycnet.apa.org/fulltext/2024-81057-001.pdf"
 

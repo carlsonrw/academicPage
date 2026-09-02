@@ -45,8 +45,6 @@ featured: true
 links:
 - name: Web 
   url: https://www.nature.com/articles/s44159-022-00071-x
-- name: PDF
-  url: https://drive.google.com/file/d/1_428O53rmeZ_125FQQt9ulJz_tGiMcBG/view?usp=sharing
 
 url_pdf: "https://drive.google.com/uc?export=download&id=1_428O53rmeZ_125FQQt9ulJz_tGiMcBG"
 

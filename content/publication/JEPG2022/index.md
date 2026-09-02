@@ -46,8 +46,6 @@ featured: true
 links:
 - name: Web 
   url: https://psycnet.apa.org/record/2022-72662-001?doi=1
-- name: PDF
-  url: https://drive.google.com/file/d/1MWhre2SwtgYyAaUKfij35QadxzwQpXhC/view?usp=sharing
 - name: OSF
   url: https://osf.io/bm6y3/?view_only=34d5b96b5316484b9cd806dfd953638d
 

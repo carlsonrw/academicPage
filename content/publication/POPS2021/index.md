@@ -45,8 +45,6 @@ featured: true
 links:
 - name: Web 
   url: https://doi.org/10.1177/17456916211045692
-- name: PDF
-  url: https://drive.google.com/file/d/1plgScM9No4vghY8DdLGgeKH86fQ6_zjE/view?usp=sharing
 
 url_pdf: "https://drive.google.com/uc?export=download&id=1plgScM9No4vghY8DdLGgeKH86fQ6_zjE"
 

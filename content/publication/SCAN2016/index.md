@@ -43,8 +43,6 @@ featured: true
 links:
 - name: Web 
   url: https://academic.oup.com/scan/article/11/7/1121/1753464?login=true
-- name: PDF
-  url: https://academic.oup.com/scan/article-pdf/11/7/1121/27103123/nsv077.pdf
 url_pdf: "https://academic.oup.com/scan/article-pdf/11/7/1121/27103123/nsv077.pdf"
 
 #url_code: '#'

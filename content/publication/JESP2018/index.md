@@ -42,8 +42,6 @@ featured: true
 links:
 - name: Web 
   url: https://www.sciencedirect.com/science/article/pii/S0022103117301701
-- name: PDF
-  url: https://drive.google.com/file/d/1DvyoEb8J9d4HcoaraHfT8jKXtJnQ7hdZ/view?usp=sharing
 - name: GitHub
   url: https://github.com/carlsonrw/layTheories_altruism
 
