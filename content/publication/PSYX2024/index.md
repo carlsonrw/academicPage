@@ -42,7 +42,7 @@ links:
 - name: PDF
   url: https://direct.mit.edu/opmi/article-pdf/doi/10.1162/OPMI.a.392/2629027/opmi.a.392.pdf
 - name: Web
-  url: https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.392/139037/The-Pitfalls-of-Pay-to-Play-Morality
+  url: https://doi.org/10.1162/OPMI.a.392
 
 
 #url_code: '#'
