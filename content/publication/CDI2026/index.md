@@ -46,7 +46,6 @@ links:
 - name: InsideHigherEd Article
   url: https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/04/20/college-students-are-more-polarized-ever
 
-url_pdf: "https://drive.google.com/uc?export=download&id=1HLt3MjeSLuKRQmE6eAv4hhdPkT2tLg7T"
 
 #url_code: '#'
 #url_dataset: '#'

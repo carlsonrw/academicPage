@@ -48,7 +48,6 @@ links:
 - name: GitHub
   url: https://github.com/esclabUIC/NetworkFMRI
 
-url_pdf: "https://drive.google.com/uc?export=download&id=1ghsm75hUllsnAG-yYQe8UWCWvEjIHYX0"
 
 #url_code: '#'
 #url_dataset: '#'

@@ -63,7 +63,6 @@ links:
 - name: OSF
   url: https://osf.io/8extq/
 
-url_pdf: "https://drive.google.com/uc?export=download&id=1ChfKccBFJM2n9X_v-M5aV3gClMBe9KA4"
 
 #url_code: '#'
 #url_dataset: '#'

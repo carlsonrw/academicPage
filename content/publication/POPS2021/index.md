@@ -46,7 +46,6 @@ links:
 - name: Web 
   url: https://doi.org/10.1177/17456916211045692
 
-url_pdf: "https://drive.google.com/uc?export=download&id=1plgScM9No4vghY8DdLGgeKH86fQ6_zjE"
 
 #url_code: '#'
 #url_dataset: '#'

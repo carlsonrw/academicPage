@@ -48,7 +48,6 @@ links:
   url: https://osf.io/f4czb/
 
 
-url_pdf: "https://drive.google.com/uc?export=download&id=1nAnP32RPMFfkcLUTseBDHbFo-c6h__P5"
 
 #url_code: '#'
 #url_dataset: '#'

@@ -43,7 +43,6 @@ links:
 - name: Web 
   url: https://www.sciencedirect.com/science/article/pii/S2352250X18300034
 
-url_pdf: "https://drive.google.com/uc?export=download&id=1YPLVunN5Sj61gm8fD1n-40yMNMOQffvR"
 
 #url_code: '#'
 #url_dataset: '#'

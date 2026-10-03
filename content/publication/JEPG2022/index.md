@@ -50,7 +50,6 @@ links:
   url: https://osf.io/bm6y3/?view_only=34d5b96b5316484b9cd806dfd953638d
 
 
-url_pdf: "https://drive.google.com/uc?export=download&id=1MWhre2SwtgYyAaUKfij35QadxzwQpXhC"
 
 #url_code: '#'
 #url_dataset: '#'

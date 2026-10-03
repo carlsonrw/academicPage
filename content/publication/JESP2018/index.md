@@ -46,7 +46,6 @@ links:
   url: https://github.com/carlsonrw/layTheories_altruism
 
 
-url_pdf: "https://drive.google.com/uc?export=download&id=1DvyoEb8J9d4HcoaraHfT8jKXtJnQ7hdZ"
 
 #url_code: '#'
 #url_dataset: '#'

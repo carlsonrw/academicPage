@@ -36,12 +36,20 @@
     <meta name="citation_doi" content="{{ . }}">
   {{ end }}
 
-  {{ with .Params.url_pdf }}
-    {{ $pdfURL := . }}
-    {{ if not (or (hasPrefix $pdfURL "http://") (hasPrefix $pdfURL "https://")) }}
-      {{ $pdfURL = absURL $pdfURL }}
+  {{/* Prefer a PDF hosted in the page bundle (<folder>.pdf), matching the PDF button in page_links.html */}}
+  {{ $pdfURL := "" }}
+  {{ with .Resources.GetMatch (printf "%s.pdf" .File.ContentBaseName) }}
+    {{ $pdfURL = .Permalink }}
+  {{ else }}
+    {{ with .Params.url_pdf }}
+      {{ $pdfURL = . }}
+      {{ if not (or (hasPrefix $pdfURL "http://") (hasPrefix $pdfURL "https://")) }}
+        {{ $pdfURL = absURL $pdfURL }}
+      {{ end }}
     {{ end }}
-    <meta name="citation_pdf_url" content="{{ $pdfURL }}">
+  {{ end }}
+  {{ with $pdfURL }}
+    <meta name="citation_pdf_url" content="{{ . }}">
   {{ end }}
 
   <meta name="citation_abstract_html_url" content="{{ .Permalink }}">
