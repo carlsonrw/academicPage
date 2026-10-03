@@ -40,9 +40,9 @@ featured: true
 
 links:
 - name: PDF
-  url: https://osf.io/preprints/psyarxiv/ycdfz
+  url: https://direct.mit.edu/opmi/article-pdf/doi/10.1162/OPMI.a.392/2629027/opmi.a.392.pdf
 - name: Web
-  url: https://doi.org/10.31234/osf.io/ycdfz_v4
+  url: https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.392/139037/The-Pitfalls-of-Pay-to-Play-Morality
 
 
 #url_code: '#'
