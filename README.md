@@ -1,3 +1,20 @@
+## Publication files on this site
+
+Each paper lives in `content/publication/<name>/` with an `index.md` and, if the PDF is hosted here, `<name>.pdf`. The PDF button finds the file automatically when its name matches the folder's, so name both the same:
+
+**`firstAuthor[EtAl]Year_topicInCamelCase`**
+
+- First author's last name, lowercase: `carlson`, `davis`, `weisz`.
+- `EtAl` when the paper has co-authors; leave it off for solo papers.
+- The year the CV cites (the issue year, not the online-first date).
+- An underscore, then a few title words in camelCase. Abbreviations go in capitals at the end.
+
+Examples: `carlsonEtAl2022_psychologicalSelfishness`, `carlson2026_dialogueSkillsAI`, `carlsonEtAl2016_intuitiveGivingERP`.
+
+Hugo lowercases the folder part of the page address, so only the PDF's own filename keeps the capitals. If you rename a folder that's already live, add redirects from its old addresses in `netlify.toml`, following the existing rules there.
+
+---
+
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
