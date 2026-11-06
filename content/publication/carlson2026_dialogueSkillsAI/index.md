@@ -38,6 +38,7 @@ tags:
 #- Source Themes
 featured: true
 
+url_pdf: "papers/carlson2026_dialogueSkillsAI.pdf"
 links:
 - name: SSRN Preprint
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6696338

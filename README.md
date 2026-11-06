@@ -1,6 +1,6 @@
 ## Publication files on this site
 
-Each paper lives in `content/publication/<name>/` with an `index.md` and, if the PDF is hosted here, `<name>.pdf`. The PDF button finds the file automatically when its name matches the folder's, so name both the same:
+Each paper's page lives in `content/publication/<name>/index.md`. To host its PDF here, save it as `static/papers/<name>.pdf` and add `url_pdf: "papers/<name>.pdf"` to the page's front matter; it's then served at `carlsonr.com/papers/<name>.pdf`. Use the same name for the folder and the PDF:
 
 **`firstAuthor[EtAl]Year_topicInCamelCase`**
 
@@ -11,7 +11,7 @@ Each paper lives in `content/publication/<name>/` with an `index.md` and, if the
 
 Examples: `carlsonEtAl2022_psychologicalSelfishness`, `carlson2026_dialogueSkillsAI`, `carlsonEtAl2016_intuitiveGivingERP`.
 
-Hugo lowercases the folder part of the page address, so only the PDF's own filename keeps the capitals. If you rename a folder that's already live, add redirects from its old addresses in `netlify.toml`, following the existing rules there.
+Hugo lowercases page addresses; PDF addresses keep their capitals. Don't put a PDF inside its page folder: the address would repeat the name in two cases. If you rename a page folder or PDF that's already live, add redirects from the old addresses in `netlify.toml`, following the existing rules there.
 
 ---
 

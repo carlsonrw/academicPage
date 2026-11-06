@@ -42,6 +42,7 @@ tags:
 #- Source Themes
 featured: true
 
+url_pdf: "papers/carlsonEtAl2022_psychologicalSelfishness.pdf"
 links:
 - name: Web 
   url: https://doi.org/10.1177/17456916211045692

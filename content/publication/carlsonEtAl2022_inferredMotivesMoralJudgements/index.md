@@ -42,6 +42,7 @@ tags:
 #- Source Themes
 featured: true
 
+url_pdf: "papers/carlsonEtAl2022_inferredMotivesMoralJudgements.pdf"
 links:
 - name: Web 
   url: https://www.nature.com/articles/s44159-022-00071-x

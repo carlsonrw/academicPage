@@ -39,6 +39,7 @@ tags:
 #- Source Themes
 featured: true
 
+url_pdf: "papers/carlsonEtAl2018_moralGoalPursuitLPFC.pdf"
 links:
 - name: Web 
   url: https://www.sciencedirect.com/science/article/pii/S2352250X18300034

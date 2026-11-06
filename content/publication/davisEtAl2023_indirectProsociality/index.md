@@ -57,6 +57,7 @@ tags:
 #- Source Themes
 featured: true
 
+url_pdf: "papers/davisEtAl2023_indirectProsociality.pdf"
 links:
 - name: Web
   url: https://www.sciencedirect.com/science/article/abs/pii/S0010027723002147

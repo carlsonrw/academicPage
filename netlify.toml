@@ -22,13 +22,13 @@
 
 # Publication folders were renamed in Nov 2026 to firstAuthor[EtAl]Year_topic
 # (e.g. PSYX2022 -> davisEtAl2023_indirectProsociality). These keep old links working.
-# Hugo lowercases the folder part of each URL; PDF filenames keep their capitals.
+# Hosted PDFs now live in static/papers/ and are served at /papers/<name>.pdf.
 # Each PDF rule must stay above its folder catch-all rule.
 
 # CDI2026 -> carlson2026_dialogueSkillsAI
 [[redirects]]
   from = "/publication/cdi2026/CDI2026.pdf"
-  to = "/publication/carlson2026_dialogueskillsai/carlson2026_dialogueSkillsAI.pdf"
+  to = "/papers/carlson2026_dialogueSkillsAI.pdf"
   status = 301
 [[redirects]]
   from = "/publication/cdi2026/*"
@@ -38,7 +38,7 @@
 # COIP2018 -> carlsonEtAl2018_moralGoalPursuitLPFC
 [[redirects]]
   from = "/publication/coip2018/COIP2018.pdf"
-  to = "/publication/carlsonetal2018_moralgoalpursuitlpfc/carlsonEtAl2018_moralGoalPursuitLPFC.pdf"
+  to = "/papers/carlsonEtAl2018_moralGoalPursuitLPFC.pdf"
   status = 301
 [[redirects]]
   from = "/publication/coip2018/*"
@@ -48,7 +48,7 @@
 # JESP2018 -> carlsonEtAl2018_layTheoriesAltruism
 [[redirects]]
   from = "/publication/jesp2018/JESP2018.pdf"
-  to = "/publication/carlsonetal2018_laytheoriesaltruism/carlsonEtAl2018_layTheoriesAltruism.pdf"
+  to = "/papers/carlsonEtAl2018_layTheoriesAltruism.pdf"
   status = 301
 [[redirects]]
   from = "/publication/jesp2018/*"
@@ -58,7 +58,7 @@
 # PNAS2018 -> morelliEtAl2018_neuralDetectionSociallyValued
 [[redirects]]
   from = "/publication/pnas2018/PNAS2018.pdf"
-  to = "/publication/morellietal2018_neuraldetectionsociallyvalued/morelliEtAl2018_neuralDetectionSociallyValued.pdf"
+  to = "/papers/morelliEtAl2018_neuralDetectionSociallyValued.pdf"
   status = 301
 [[redirects]]
   from = "/publication/pnas2018/*"
@@ -68,7 +68,7 @@
 # EMO2020 -> weiszEtAl2021_buildingEmpathy
 [[redirects]]
   from = "/publication/emo2020/EMO2020.pdf"
-  to = "/publication/weiszetal2021_buildingempathy/weiszEtAl2021_buildingEmpathy.pdf"
+  to = "/papers/weiszEtAl2021_buildingEmpathy.pdf"
   status = 301
 [[redirects]]
   from = "/publication/emo2020/*"
@@ -78,7 +78,7 @@
 # JEPG2022 -> weiszEtAl2022_empathyMiddleSchool
 [[redirects]]
   from = "/publication/jepg2022/JEPG2022.pdf"
-  to = "/publication/weiszetal2022_empathymiddleschool/weiszEtAl2022_empathyMiddleSchool.pdf"
+  to = "/papers/weiszEtAl2022_empathyMiddleSchool.pdf"
   status = 301
 [[redirects]]
   from = "/publication/jepg2022/*"
@@ -88,7 +88,7 @@
 # NREV2022 -> carlsonEtAl2022_inferredMotivesMoralJudgements
 [[redirects]]
   from = "/publication/nrev2022/NREV2022.pdf"
-  to = "/publication/carlsonetal2022_inferredmotivesmoraljudgements/carlsonEtAl2022_inferredMotivesMoralJudgements.pdf"
+  to = "/papers/carlsonEtAl2022_inferredMotivesMoralJudgements.pdf"
   status = 301
 [[redirects]]
   from = "/publication/nrev2022/*"
@@ -98,7 +98,7 @@
 # POPS2021 -> carlsonEtAl2022_psychologicalSelfishness
 [[redirects]]
   from = "/publication/pops2021/POPS2021.pdf"
-  to = "/publication/carlsonetal2022_psychologicalselfishness/carlsonEtAl2022_psychologicalSelfishness.pdf"
+  to = "/papers/carlsonEtAl2022_psychologicalSelfishness.pdf"
   status = 301
 [[redirects]]
   from = "/publication/pops2021/*"
@@ -108,7 +108,7 @@
 # PSYX2022 -> davisEtAl2023_indirectProsociality
 [[redirects]]
   from = "/publication/psyx2022/PSYX2022.pdf"
-  to = "/publication/davisetal2023_indirectprosociality/davisEtAl2023_indirectProsociality.pdf"
+  to = "/papers/davisEtAl2023_indirectProsociality.pdf"
   status = 301
 [[redirects]]
   from = "/publication/psyx2022/*"
@@ -167,4 +167,42 @@
 [[redirects]]
   from = "/publication/psyx2025/*"
   to = "/publication/melnikoffetal2025_optimaltaskrepresentations/:splat"
+  status = 301
+
+# PDFs briefly lived inside their page folders (Nov 5, 2026) before moving to /papers/.
+[[redirects]]
+  from = "/publication/carlson2026_dialogueskillsai/carlson2026_dialogueSkillsAI.pdf"
+  to = "/papers/carlson2026_dialogueSkillsAI.pdf"
+  status = 301
+[[redirects]]
+  from = "/publication/carlsonetal2018_laytheoriesaltruism/carlsonEtAl2018_layTheoriesAltruism.pdf"
+  to = "/papers/carlsonEtAl2018_layTheoriesAltruism.pdf"
+  status = 301
+[[redirects]]
+  from = "/publication/carlsonetal2018_moralgoalpursuitlpfc/carlsonEtAl2018_moralGoalPursuitLPFC.pdf"
+  to = "/papers/carlsonEtAl2018_moralGoalPursuitLPFC.pdf"
+  status = 301
+[[redirects]]
+  from = "/publication/carlsonetal2022_inferredmotivesmoraljudgements/carlsonEtAl2022_inferredMotivesMoralJudgements.pdf"
+  to = "/papers/carlsonEtAl2022_inferredMotivesMoralJudgements.pdf"
+  status = 301
+[[redirects]]
+  from = "/publication/carlsonetal2022_psychologicalselfishness/carlsonEtAl2022_psychologicalSelfishness.pdf"
+  to = "/papers/carlsonEtAl2022_psychologicalSelfishness.pdf"
+  status = 301
+[[redirects]]
+  from = "/publication/davisetal2023_indirectprosociality/davisEtAl2023_indirectProsociality.pdf"
+  to = "/papers/davisEtAl2023_indirectProsociality.pdf"
+  status = 301
+[[redirects]]
+  from = "/publication/morellietal2018_neuraldetectionsociallyvalued/morelliEtAl2018_neuralDetectionSociallyValued.pdf"
+  to = "/papers/morelliEtAl2018_neuralDetectionSociallyValued.pdf"
+  status = 301
+[[redirects]]
+  from = "/publication/weiszetal2021_buildingempathy/weiszEtAl2021_buildingEmpathy.pdf"
+  to = "/papers/weiszEtAl2021_buildingEmpathy.pdf"
+  status = 301
+[[redirects]]
+  from = "/publication/weiszetal2022_empathymiddleschool/weiszEtAl2022_empathyMiddleSchool.pdf"
+  to = "/papers/weiszEtAl2022_empathyMiddleSchool.pdf"
   status = 301

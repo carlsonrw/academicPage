@@ -39,6 +39,7 @@ tags:
 #- Source Themes
 featured: true
 
+url_pdf: "papers/carlsonEtAl2018_layTheoriesAltruism.pdf"
 links:
 - name: Web 
   url: https://www.sciencedirect.com/science/article/pii/S0022103117301701

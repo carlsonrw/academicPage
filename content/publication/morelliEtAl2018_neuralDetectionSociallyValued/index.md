@@ -42,6 +42,7 @@ tags:
 #- Source Themes
 featured: true
 
+url_pdf: "papers/morelliEtAl2018_neuralDetectionSociallyValued.pdf"
 links:
 - name: Web 
   url: https://www.pnas.org/content/115/32/8149.short
