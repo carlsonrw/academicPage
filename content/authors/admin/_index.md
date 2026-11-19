@@ -19,18 +19,6 @@ bio: My research interests include self and social cognition, motives, and moral
 # Interests to show in About widget
 interests:
 
-# Education to show in About widget
-education:
-  courses:
-  - course: Principal Researcher
-    institution: University of Chicago 
-  - course: Ph.D. in Psychology
-    institution: Yale University
-  - course: Research Assistant
-    institution: Stanford University
-  - course: B.A. (Hons.) in Psychology
-    institution: Simon Fraser University
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
