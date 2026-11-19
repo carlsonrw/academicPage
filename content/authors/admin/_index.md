@@ -26,12 +26,10 @@ education:
     institution: University of Chicago 
   - course: Ph.D. in Psychology
     institution: Yale University
-    year: 2023
   - course: Research Assistant
     institution: Stanford University
   - course: B.A. (Hons.) in Psychology
     institution: Simon Fraser University
-    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,6 +68,6 @@ highlight_name: false
 
 I'm a Research Scientist at the [Constructive Dialogue Institute](https://constructivedialogue.org/) and a Research Affiliate at [Princeton University](https://psychology.princeton.edu/). I build AI tools and run large-scale field interventions to help people navigate disagreement more effectively. 
 
-Beneath most conflicts is an assumption about motives: that the other side is operating in bad faith, that their opposing beliefs are rooted in self-interest rather than moral concern. My research aims to help people disagree better, which requires understanding motives: what actually drives people, how accurately they can recognize their own and others' motives, and how to intervene when they misread each other. I approach these questions by combining behavioral experiments, computational modeling, and field studies. This work extends from basic science on introspection and social perception to building and testing [AI tools](https://constructivedialogue.org/articles/introducing-perspectives-with-personalized-practice/) to teach skills for constructive disagreement at scale (40,000+ students, staff, and faculty). You can read coverage of my AI work in [Inside Higher Ed](https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/04/20/college-students-are-more-polarized-ever) and of my earlier work in [BBC Worklife](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way). 
+Beneath most conflicts is an assumption about motives: that the other side is operating in bad faith, that their opposing beliefs are rooted in self-interest rather than moral concern. My research aims to help people disagree better, which requires understanding motives: what actually drives people, how accurately they can recognize their own and others' motives, and how to intervene when they misread each other. I approach these questions by combining behavioral experiments, computational modeling, and field studies. This work extends from basic science on introspection and social perception to building and evaluating [AI tools](https://constructivedialogue.org/articles/introducing-perspectives-with-personalized-practice/) for constructive disagreement that are now used by 50,000+ college students. You can read coverage of my AI work in [Inside Higher Ed](https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/04/20/college-students-are-more-polarized-ever) and of my earlier work in [BBC Worklife](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way). 
 
 I grew up in Vancouver, Canada, where I earned my BA at Simon Fraser University. I received my PhD from Yale University and completed my postdoctoral training at the University of Chicago Booth School of Business. To learn more about my work, find my [publications](#featured) below or on [Google Scholar](https://scholar.google.com/citations?user=kDJTGIUAAAAJ&hl=en&oi=ao).
