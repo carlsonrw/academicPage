@@ -22,3 +22,11 @@
 #profile {
   padding-top: 0;
 }
+
+// Give the top menu links the same hover color as the site title.
+// The theme pins them to plain white with a high-specificity rule, so its
+// own hover rule never applies; this matches that rule's specificity.
+#navbar-main .main-menu-item ul li .nav-link:hover,
+#navbar-main .main-menu-item ul li .nav-link:focus {
+  color: $sta-menu-text-active;
+}
