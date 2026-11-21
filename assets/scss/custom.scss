@@ -51,6 +51,9 @@
 #profile .network-icon {
   gap: 4px;
   align-items: center;
+  // The theme's 30px suited its larger icons; with smaller icons the row
+  // looked detached from the name block.
+  margin-top: 14px;
 }
 
 #profile .network-icon li {
