@@ -27,9 +27,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:carlson.rwc@gmail.com'
-- icon: bluesky
-  icon_pack: fab
-  link: https://bsky.app/profile/rcarl.bsky.social
+# Bluesky is hidden for now: the theme's icon set (Font Awesome 5) has no
+# Bluesky icon, so this entry rendered as an empty slot.
+# - icon: bluesky
+#   icon_pack: fab
+#   link: https://bsky.app/profile/rcarl.bsky.social
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ryan-carlson-296206249/
@@ -58,4 +60,4 @@ I'm a Research Scientist at the [Constructive Dialogue Institute](https://constr
 
 Beneath most conflicts is an assumption about motives: that the other side is operating in bad faith, that their opposing beliefs are rooted in self-interest rather than moral concern. My research aims to help people disagree better, which requires understanding motives: what actually drives people, how accurately they can recognize their own and others' motives, and how to intervene when they misread each other. I&nbsp;approach these questions by combining behavioral experiments, computational modeling, and field studies. This work extends from basic science on introspection and social perception to building and evaluating an AI tool that 50,000+ college students now use to practice constructive disagreement. You can read coverage of my AI work in [Inside Higher Ed](https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/04/20/college-students-are-more-polarized-ever) and of my earlier work in [BBC Worklife](https://www.bbc.com/worklife/article/20211122-why-overly-kind-and-moral-people-can-rub-you-up-the-wrong-way). 
 
-I&nbsp;grew up just outside Vancouver, Canada. I&nbsp;received my PhD from Yale and completed my postdoctoral training at the University of Chicago Booth School of Business. To learn more about my work, find my [publications](#featured) below or on [Google Scholar](https://scholar.google.com/citations?user=kDJTGIUAAAAJ&hl=en&oi=ao).
+I&nbsp;grew up just outside Vancouver, Canada. I&nbsp;received my PhD from Yale and completed my postdoctoral training at the University of Chicago Booth School of Business. To learn more about my work, find my <a href="#featured" class="js-scroll">publications</a> below or on [Google Scholar](https://scholar.google.com/citations?user=kDJTGIUAAAAJ&hl=en&oi=ao).
