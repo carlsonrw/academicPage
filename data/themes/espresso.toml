@@ -1,0 +1,19 @@
+# Theme metadata
+name = "Espresso"
+
+# Is theme light or dark?
+light = true
+
+# Primary (links, buttons, accents)
+primary = "#8a4a26"
+
+# Menu: dark espresso bar, cream text, amber for the active/hovered item
+menu_primary = "#3a2a21"
+menu_text = "#f7efe2"
+menu_text_active = "#e6a85c"
+menu_title = "#f7efe2"
+
+# Backgrounds: very faint warm cream
+background = "#fdfaf5"
+home_section_odd = "#fdfaf5"
+home_section_even = "#f7f1e8"
