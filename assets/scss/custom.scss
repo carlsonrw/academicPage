@@ -49,11 +49,12 @@
 // Icons have different natural widths (the graduation cap is the widest
 // at 1.25em), so each one is centered in a slot of that width.
 #profile .network-icon {
-  gap: 4px;
+  gap: 8px;
   align-items: center;
   // The theme's 30px suited its larger icons; with smaller icons the row
-  // looked detached from the name block.
-  margin-top: 14px;
+  // looked detached from the name block. With the title's 10px bottom
+  // margin this gives a 26px gap (see the spacing note below).
+  margin-top: 16px;
 }
 
 #profile .network-icon li {
@@ -71,4 +72,17 @@
 // The Academicons "CV" glyph is drawn smaller than Font Awesome icons.
 #profile .network-icon .ai.big-icon {
   font-size: 1.55rem;
+}
+
+// Profile column spacing steps up by the golden ratio (about 1.618):
+// name to job title 10px, photo to name 16px, job title to icons 26px.
+#profile .portrait-title h2 {
+  margin-top: 16px;
+}
+
+// Publication card dates: a quiet label above the title. 11.1px is one
+// step below the 14.15px authors line on a 1.272 (square root of the
+// golden ratio) scale.
+.card-simple .article-metadata {
+  font-size: 0.617rem;
 }
