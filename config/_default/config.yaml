@@ -5,7 +5,7 @@
 
 title: r. w. carlson # Website name
 baseurl: 'https://carlsonr.com/' # Website URL
-copyright: '© 2021 Ryan Carlson' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Ryan Carlson' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
