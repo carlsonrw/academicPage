@@ -5,7 +5,7 @@ name = "Espresso"
 light = true
 
 # Primary (links, buttons, accents)
-primary = "#8a4a26"
+primary = "#b04a26"
 
 # Menu: dark espresso bar, cream text, amber for the active/hovered item
 menu_primary = "#3a2a21"
