@@ -1,0 +1,19 @@
+# Theme metadata
+name = "Dusk"
+
+# Is theme light or dark?
+light = true
+
+# Primary (icons, buttons, accents)
+primary = "#394069"
+
+# Menu: muted indigo bar, cream text, amber for the active/hovered item
+menu_primary = "#394069"
+menu_text = "#f7efe2"
+menu_text_active = "#e6a85c"
+menu_title = "#f7efe2"
+
+# Backgrounds: near white with a hint of warmth, pale cream alternate
+background = "#fffdfa"
+home_section_odd = "#fffdfa"
+home_section_even = "#faf6ef"

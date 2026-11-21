@@ -30,3 +30,17 @@
 #navbar-main .main-menu-item ul li .nav-link:focus {
   color: $sta-menu-text-active;
 }
+
+// Links inside prose (the bio, abstracts) read as body text with a thin
+// underline instead of a colored link. Hover picks up the theme color.
+.article-style a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.article-style a:hover,
+.article-style a:focus {
+  color: lighten($sta-primary, 15%);
+}

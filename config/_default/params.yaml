@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: espresso
+theme: dusk
 day_night: false
-font: rose
+font: dm_sans
 font_size: M
 
 # SEO

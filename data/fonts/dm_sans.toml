@@ -1,0 +1,12 @@
+# Font style metadata
+name = "DM Sans"
+
+# Google font URL: DM Sans in upright and italic, weights 300 to 700
+# (the theme sets the profile name in 300 and titles in 700)
+google_fonts = "family=Cutive+Mono&family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700"
+
+# Font families
+heading_font = "DM Sans"
+body_font = "DM Sans"
+nav_font = "DM Sans"
+mono_font = "Cutive Mono"
