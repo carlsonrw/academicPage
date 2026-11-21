@@ -14,6 +14,6 @@ menu_text_active = "#e6a85c"
 menu_title = "#f7efe2"
 
 # Backgrounds: very faint warm cream
-background = "#fdfaf5"
-home_section_odd = "#fdfaf5"
-home_section_even = "#f7f1e8"
+background = "#fffdfa"
+home_section_odd = "#fffdfa"
+home_section_even = "#faf6ef"
