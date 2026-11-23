@@ -86,3 +86,13 @@
 .card-simple .article-metadata {
   font-size: 0.617rem;
 }
+
+// Section headings ("Publications") sit in a left column with the same
+// center as the profile column, so center them under the name on desktop.
+// On smaller screens the theme already centers them.
+@media (min-width: 992px) {
+  .section-heading {
+    align-items: center !important;
+    text-align: center;
+  }
+}
